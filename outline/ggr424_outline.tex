@@ -1,0 +1,506 @@
+% Don't touch this %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[11pt]{article}
+\usepackage{fullpage}
+\usepackage[left=1in,top=1in,right=1in,bottom=1in,headheight=3ex,headsep=3ex]{geometry}
+\usepackage{graphicx}
+\usepackage{float}
+\renewcommand{\theenumi}{\Alph{enumi})}
+
+\newcommand{\blankline}{\quad\pagebreak[2]}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Modify Course title, instructor name, semester here %%%%%%%%
+
+\title{\textbf{GGR424: Transportation Geography \& Planning}}
+\author{Jeff Allen}
+\date{Winter, 2022}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Don't touch this %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[sc]{mathpazo}
+\linespread{1.05} % Palatino needs more leading (space between lines)
+\usepackage[T1]{fontenc}
+\usepackage[mmddyyyy]{datetime}% http://ctan.org/pkg/datetime
+\usepackage{advdate}% http://ctan.org/pkg/advdate
+\newdateformat{syldate}{\twodigit{\THEMONTH}/\twodigit{\THEDAY}}
+\newsavebox{\MONDAY}\savebox{\MONDAY}{Mon}% Mon
+\newcommand{\week}[1]{%
+	%  \cleardate{mydate}% Clear date
+	% \newdate{mydate}{\the\day}{\the\month}{\the\year}% Store date
+	\paragraph*{\kern-2ex\quad #1, \syldate{\today} - \AdvanceDate[4]\syldate{\today}:}% Set heading  \quad #1
+	%  \setbox1=\hbox{\shortdayofweekname{\getdateday{mydate}}{\getdatemonth{mydate}}{\getdateyear{mydate}}}%
+	\ifdim\wd1=\wd\MONDAY
+	\AdvanceDate[7]
+	\else
+	\AdvanceDate[7]
+	\fi%
+}
+\usepackage{setspace}
+\usepackage{multicol}
+%\usepackage{indentfirst}
+\usepackage{fancyhdr,lastpage}
+\usepackage{url}
+\pagestyle{fancy}
+\usepackage{hyperref}
+\usepackage{lastpage}
+\usepackage{amsmath}
+\usepackage{layout}
+
+\lhead{}
+\chead{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Modify header here %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\rhead{\footnotesize Course Outline | GGR424}
+\lhead{\footnotesize Jeff Allen}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Don't touch this %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lfoot{}
+\cfoot{\small \thepage/\pageref*{LastPage}}
+\rfoot{}
+
+\usepackage{array, xcolor}
+\usepackage{color,hyperref}
+\definecolor{clemsonorange}{HTML}{f00000}
+\hypersetup{colorlinks,breaklinks,linkcolor=clemsonorange,urlcolor=clemsonorange,anchorcolor=clemsonorange,citecolor=black}
+
+\setlength{\parindent}{0em}
+\setlength{\parskip}{0.8em}
+
+\usepackage{colortbl}
+\usepackage{tabularx,ragged2e}
+\usepackage{sectsty}
+
+
+\usepackage{helvet}
+
+\begin{document}
+	\allsectionsfont{\sffamily}
+	
+	
+	\begin{center}
+		
+		|
+		
+		\Large{\textsf{\textbf{GGR424: Transportation Geography \& Planning}}}
+		
+		\normalsize
+		
+		Mondays 1:00pm to 3:00pm
+		\\
+		SS 2111		
+		
+				
+		|
+		
+		\vspace{5 mm}
+		
+		\hrule
+		
+	\end{center}
+		
+
+	
+	
+	
+	\vspace{3 mm}
+	
+	% First Section %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	\section*{\textsf{Instructor}}
+	
+	Jeff Allen | \url{jeff.allen@utoronto.ca}
+	
+	Office Hours | Mondays 3:30pm-5:00pm
+	
+	\section*{Course Description}
+	
+	% copied from posting
+	Introductory overview of major issues in interurban and intraurban transportation at the local, national and international scale. Topics include urban transportation, land use patterns and the environment, causes of and cures for congestion, public transit, infrastructure finance, and transport planning and policy setting. 
+	
+	
+	\section*{Learning Outcomes}
+	
+	\begin{itemize}
+		
+		\item Understand fundamental concepts and theories in urban transportation geography and planning.
+		
+		\item Identify and critically assess major social, political, economic, and environmental issues related to urban transportation.
+		
+		\item Analyze and visualize transportation-related data (including using GIS) to describe travel behaviour, transportation networks, land use, and accessibility.
+		
+		\item Apply the theoretical and practical knowledge you have acquired from the course to develop recommendations on improving urban transport systems.
+		
+	\end{itemize}
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	% Second Section %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+%	\section*{Prerequisites}
+%	
+%	There are no prerequisites for this courses. A background in GIS would be useful.
+	
+	
+	
+	
+	
+	
+	
+%	\section*{Course Objectives}
+		
+%	\begin{itemize}
+%		\item Discuss the implications of the availability and suitability of crowdsourced geographic data for solving particular types of problems
+%		\item Describe and critically evaluate potential problems and biases with data created by crowdsourced geographic projects.
+%		\item Evaluate and describe potential implications (e.g., privacy, surveillance) caused by some of the technologies and socio-economic practices that support crowdsourcing.
+%		\item Be able to contribute to OpenStreetMap as well as download OpenStreetMap data.
+%		\item Learn how to create a simple crowdsourcing web application.
+%		
+%	\end{itemize}
+
+
+	
+	
+	\section*{Required Materials}
+	
+	There is no textbook for this course. All readings will be posted on Quercus.
+	
+
+	
+	\section*{Lateness \& Submissions Policy}
+	
+	All assignments should be submitted via the course website. Except in the case of personal or medical emergencies, work must be submitted on time. Extensions may be permitted on a case-by-case basis through consultation with the instructor. Late assignments will be docked 10\% per day, including weekends. Re-weighting of assignments/grades is not permitted.
+	
+	
+	
+	
+		
+	
+
+	\section*{Projects \& Evaluation}
+	
+	
+	\subsubsection*{Travel Field Notes (20\%)}
+	
+	Your personal impressions of various modes of transportation as you experience them. Using auto-ethnography and thick description, you will write about your feelings, perceptions, and observations taking various forms of transit, walking, cycling, and/or driving. Evaluate aspects of urban transportation that 1) work for you and 2) that you find challenging. For instance, in addition to travel times and congestion, you may want to think of issues like comfort, accessibility, equity, health, sustainability, and safety.	5 pages single spaced.
+	
+	\textit{Due February 7}
+	
+	
+	\subsubsection*{Transportation Data Analysis (30\%)}
+	
+	This assignment will consist of an analysis and interpretation of data from the Canadian census, the Transportation Tomorrow Survey (TTS), and various transportation datasets in GIS. Your assignment will be to query and map these data and answer a set of analytical questions. The final report will be approximately 5-7 pages and will include charts, graphs, and maps along with textual interpretation.
+	
+	\textit{Due February 28}
+	
+	\subsubsection*{Transportation Improvement Plan (Report 25\%, Presentation 10\%)}
+	
+	You will propose an intervention, solution, or
+	improvement to a transportation problem you have identified in either youru previous assignments or another project of your choosing. This plan or proposal can vary by mode, geography, and objectives. You will be evaluated on how evidence-based and well-reasoned it is as well as how effectively it is communicated. Big and small ideas welcomed, as well as imaginative ones that address particular problems that exist in the transportation landscape (e.g. improvement for a particular street or transit line) or broader issues such as transportation equity, sustainability, potential mode shift, and efficiency. You should demonstrate how your plan achieves some aspect of the public good. The plan should be 7-10	pages. Feel free to consider using a variety of communication methods for your plan, including design sketches, maps, street plans, renderings, and/or photographs.
+	
+	The final two classes will be devoted to short (5 min) presentations followed by a brief Q\&A period. The report will be due after the last class, so the presentation does not need to consist of a "complete" project.
+	
+	
+	
+	\subsubsection*{In-Class Participation, Exercises, \& Quizzes (15\%)}
+	
+	The quality of your learning experience depends as much on your participation as well as what the instructor brings. There will be several interactive aspects to the class, including group discussions and design exercises. Attendance will be noted during class. Each of the first 11 weeks will involve at least one in-class activity, group discussion, or quiz. Each class will be worth 1.5\% (you thus have the opportunity to earn a maximum of 16.5\%).
+	
+	
+	
+	
+	
+	\section*{Academic Integrity}
+	
+	Academic integrity is essential to the pursuit of learning and scholarship in a university, and to ensuring that a degree from the University of Toronto is a strong signal of each student’s individual academic achievement. As a result, the University treats cases of cheating and plagiarism very seriously. The University of Toronto's Code of Behaviour on Academic Matters outlines the behaviours that constitute academic dishonesty and the processes for addressing academic offences. 
+	
+	For papers and assignments, this includes using someone else's ideas or words without appropriate acknowledgement, submitting your own work in more than one course without the permission of the instructor in all relevant courses,	making up sources or facts, or obtaining or providing unauthorized assistance on any assignment.
+	
+	All suspected cases of academic dishonesty will be investigated following procedures outlined in the Code of Behaviour on Academic Matters. If you have questions or concerns about what constitutes appropriate academic behaviour or appropriate research and citation methods, please reach out to me. For further information on academic integrity, please see \url{http://academicintegrity.utoronto.ca/}.
+	
+	
+	\section*{Mental Health \& Accessibility}
+	
+	The University provides academic accommodations for students with disabilities in accordance with the terms of the Ontario Human Rights Code. This occurs through a collaborative process that acknowledges a collective obligation to develop an accessible learning environment that both meets the needs of students and preserves the essential academic requirements of the University's courses and programs. Please see \href{https://studentlife.utoronto.ca/department/accessibility-services/}{Accessibility Services} for more information.
+	
+	As a student at U of T, you may experience circumstances and challenges that can affect your academic performance and/or reduce your ability to participate fully in daily activities. An important part of the University experience is learning how and when to ask for help. There is no wrong time to reach out, which is why there are resources available for every situation and every level of stress. Here are some available resources:
+	
+	\begin{itemize}
+		
+		
+		\item \href{https://safety.utoronto.ca/}{Student Life Safety \& Support}
+		\item \href{https://studentlife.utoronto.ca/department/health-wellness/}{Student Life Health \& Wellness}
+		\item \href{https://studentlife.utoronto.ca/task/support-when-you-feel-distressed/}{Emergency support if you’re feeling distressed}
+		
+		\item \href{https://mentalhealth.utoronto.ca/}{Student Mental Health Resources}
+		
+		\item  \href{https://geography.utoronto.ca/department/mental-health-resources/}{Additional mental health resources can also be found on the Geography website}
+	\end{itemize}
+
+	
+	\section*{Writing}
+	
+	Clear writing and communicating is essential. You will be expected to write clearly and effectively on
+	assignments. The University provides some resources through the writing centres. Brief advice on
+	specific elements of writing for university courses can also be found here:	
+	\url{https://writing.utoronto.ca/writing-centres/arts-and-science/}
+	
+
+	
+	\section*{Course Schedule}
+	
+	
+	\subsection*{Week 1 | Introduction to Transportation Geography \& Planning}
+	
+	\textit{January 10}
+
+	Review of syllabus. Overview of key concepts and methods in transportation planning and geography. 
+	
+	% Class activity - mode prioritization
+	
+	
+	
+	\subsection*{Week 2 | Cars, Roads, \& Highways}
+	
+	\textit{January 17}
+	
+	Rise of cars as the predominant mode of travel in North American cities. How the infrastructure of automobiles has transformed transportation and land-use and has affected daily life. 
+	
+	\begin{itemize}
+%		\item \textbf{Reading:} Urry, J. (2004). The ‘System’ of Automobility. Theory, Culture \& Society , 21 (4–5), 25–39. 	\url{https://doi.org/10.1177/0263276404046059}
+		
+		\item \textbf{Reading:} Jacobs, J. (1961). The Death and Life of Great American Cities. Vintage.
+		Chapter 18: Erosion of cities or attrition of automobiles (will be posted online)
+					
+		\item \textbf{Reading:} Zipper, D. (2021). The Unstoppable Appeal of Highway Expansion. Bloomberg CityLab. \href{https://www.bloomberg.com/news/features/2021-09-28/why-widening-highways-doesn-t-bring-traffic-relief}{URL}
+		
+		\item \textbf{Video:} TVO (2018) 
+		Highways and our Transportation Future \href{https://www.tvo.org/video/highways-and-our-transportation-future}{URL}
+		
+		\item (\textit{optional}) \textbf{Reading:} Robinson, R. (2011) The Spadina Expressway Controversy in Toronto, Ontario. \textit{ Canadian Historical Review} \href{https://www.utpjournals.press/doi/pdf/10.3138/chr.92.2.295}{URL}
+	\end{itemize}
+
+	% Class Activity: Highway debate? for the 413 / Bradford bypass
+
+	
+
+		
+	\subsection*{Week 3 | Public Transit}
+	
+	\textit{January 24}
+	
+	The theory and practice of public transportation planning, design, and operations. Overview of Transit Oriented Development (TOD)
+	
+	\begin{itemize}
+		\item \textbf{Reading:} Walker, J. (2011) Human Transit. Chapters 1 and 2. pp.1-37 (will be posted online)
+		
+		\item \textbf{Video:} Transit Analytics Lab (2020) History of Public Transit in Toronto \href{https://www.youtube.com/watch?v=0Rd4RzsRsWg}{URL}
+		
+		
+		
+		\item (\textit{optional}) \textbf{Reading:} Ocejo, R. E., \& Tonnelat, S. (2014). Subway diaries: How people experience and practice
+		riding the train. Ethnography, 15(4), 493–515.
+		\href{https://doi.org/10.1177/1466138113491171}{URL}
+		
+		\item (\textit{optional}) \textbf{Video:} Vox (2020) Why American public transit is so bad \href{https://www.youtube.com/watch?v=-ZDZtBRTyeI}{URL}
+		
+	\end{itemize}
+	
+	% Guest Lecture (MX - Kevin? or TTC?)
+	
+	% Activity - overview / critique componetns of TTCs 5-year plan
+	
+	
+	
+	
+	
+	
+	\subsection*{Week 4 | Cycling \& Walking}
+	
+	\textit{January 31}
+	
+	Walking and cycling in the city. Health benefits of active travel. Safety issues. Streets as public space. Designing complete streets.
+	
+	\begin{itemize}
+		\item \textbf{Reading:} Hess, P. (2009) Avenues or Arterials: The struggle to change street building practices in Toronto, Canada. Journal of Urban Design, 14(1), 1-28.
+		
+		\item \textbf{Video:} Not Just Bikes (2021) Stroads. \url{https://www.youtube.com/watch?v=ORzNZUeUHAM}
+		
+		\item \textbf{Interactive:} Explore Streetmix, an interactive tool for desiging cross-sections of streets. \\ \url{https://streetmix.net}
+		
+		\item \textbf{Interactive} Explore the City of Toronto's Vision Zero Plan \& Dashboard \\ \url{https://www.toronto.ca/services-payments/streets-parking-transportation/road-safety/vision-zero/vision-zero-dashboard/}
+				
+		\item \textbf{Interactive} Explore The Centre for Active Transportation's (TCAT) website: \url{https://www.tcat.ca/}
+		
+	\end{itemize}
+	
+	% Guest Lecture (TCAT)
+		
+	% Class Activity - Ideas for redesigning a street in Toronto - Pick a street, redesign - then present to class?
+	
+	
+	\subsection*{Week 5 | Paths, Networks, \& Accessibility}
+	
+	\textit{February 7}
+	
+	The spatial organization of transportation networks. Transportation and land-use. Measuring and evaluating accessibility.
+	
+	\begin{itemize}
+		\item \textbf{Reading:} Litman, T. (2020), Evaluating Accessibility for Transport Planning Measuring People’s Ability to
+		Reach Desired Goods and Activities , Victoria Transport Policy Institute. Evaluating Accessibility
+		For Transport Planning
+		
+		
+	\end{itemize}
+	
+	% Activity / Quiz, measure Accessibility - conceptual ideas and answers
+	
+	
+	
+	\subsection*{Week 6 | Maps, Data, \& GIS}
+	
+	\textit{February 14}
+		
+	Common forms of data used for analyzing transportation systems. GIS analysis for transportation planning and research. Transportation data visualization and cartography.
+	
+	
+	\begin{itemize}
+		
+		
+		
+		\item \textbf{Map:} Allen, J. (2018) Access to Employment in
+		Canadian Cities \\ \url{https://sausy-lab.github.io/canada-transit-access/map.html}
+		
+		
+		
+	\end{itemize}
+	
+	% Guest Lecture - Nate, bike map navigation stuff
+	
+	
+	
+	\subsection*{Week 7 | Reading Week}
+	
+	\textit{February 21}
+	
+	
+	
+	\subsection*{Week 8 | Sustainability}
+	
+	\textit{February 28}
+	
+	Urban transportation and climate change. Potential of electric vehicles. Incentives for shifting to more sustainable modes.
+	
+	% A2 - Transportation Data Analysis Due
+	
+	\begin{itemize}
+		\item \textbf{Reading:} Banister, David. (2011). Cities, mobility and climate change. Journal of Transport
+		Geography, 19(6), 1538–1546. \url{https://doi.org/10.1016/j.jtrangeo.2011.03.009}
+	\end{itemize}
+
+	% Guest Lecture (Pembina - Yes!)
+	
+	
+	
+	
+	\subsection*{Week 9 | Health \& Equity}
+	
+	\textit{March 7}
+	
+	How the costs and benefits of transportation are (in)equitably distributed. Health impacts of transportation (e.g. pollution, noise)
+	
+	\begin{itemize}
+		\item \textbf{Reading:} Lucas, K. (2012). Transport and social exclusion: Where are we now?. Transport policy, 20, 105-113. \url{https://doi.org/10.1016/j.tranpol.2012.01.013}
+		
+		\item \textbf{Reading:} Litman, T. (2020), Evaluating Transportation Equity Guidance For Incorporating Distributional Impacts in Transportation Planning, Victoria Transport Policy Institute. \url{https://vtpi.org/equity.pdf}
+		
+		\item \textbf{Map:} Farber, S. \& Allen, J. (2018) Transit in Toronto: Connections between socioeconomic status and transit availability. \\ \url{http://edu.maps.arcgis.com/apps/Cascade/index.html?appid=58618c037f344aaaada20b0c894e011c}
+		
+		\item \textbf{Map:} TransitCenter (2021) TransitCenter Equity Dashboard \\ \url{https://dashboard.transitcenter.org/}
+	\end{itemize}
+	
+	% Guest Lecture (MJ - Matt, Alex, C/P, 2/3 people sessions)
+	
+	
+	
+	
+	\subsection*{Week 10 | Economics \& Politics}
+	
+	\textit{March 14}
+	
+	Financing transportation infrastructure. Transportation evidence and decision-making. Cost-benefit analyses. 
+	
+	\begin{itemize}
+		
+		\item \textbf{Reading:} Pagliaro, J. \& Spurr, B. (2017) How politics, not evidence, drives transit planning in Toronto \\ \url{https://www.thestar.com/news/city_hall/2017/09/18/how-politics-not-evidence-drives-transit-planning-in-toronto.html}
+		
+		\item \textbf{Reading:} Metrolinx (2020) Ontario Line Preliminary Design 
+		Business Case Summary \\
+		\url{https://www.metrolinx.com/en/regionalplanning/projectevaluation/benefitscases/benefits_case_analyses.aspx}
+		
+		
+	\end{itemize}
+	
+	% Guest Lecture - (MX? else?)
+	
+	
+	
+		
+	\subsection*{Week 11 | The Future of Transportation}
+	
+	\textit{March 21}
+	
+	Potential and concerns with new mobility technologies, such as shared mobility (e.g. ride hailing, bike-share, etc.), on-demand transit, and autonomous vehicles.
+	
+	\begin{itemize}
+		\item \textbf{Reading:} Millard-Ball, A. (2018). Pedestrians, Autonomous Vehicles, and Cities. Journal of
+		Planning Education and Research, 38(1), 6-12.
+		
+		\item \textbf{Reading:} Zhang, Y., Farber, S., \& Young, M. (2021). Eliminating barriers to nighttime activity participation: the case of on-demand transit in Belleville, Canada. Transportation, 1-24.
+	\end{itemize}
+	
+	% guest lecture - Mischa? other researcher / grad student?
+	
+	% activity - plan a road for AVs/// maybe
+	
+	% % %
+	
+	
+	\subsection*{Week 12 | Presentations}
+	
+	\textit{March 28}
+	
+	
+	\subsection*{Week 13 | Presentations}
+
+	\textit{April 4}
+
+	% 
+	
+
+%Overview - 10 -- TRB
+%Cars - 17
+%Public Transit - 24
+%Cycling & Walking - 31
+%Streets - 7
+%Networks - 14
+%RW - 21
+%Navigation - 28
+%Sustainability - 7
+%Equity - 14
+%Economics - 21
+%The Future - 28 -- AAG
+%Presentations - 8
+
+
+	
+\end{document}
