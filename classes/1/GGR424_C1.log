@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  2 JAN 2022 11:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  4 JAN 2022 18:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -867,42 +867,42 @@ Dictionary: translator-theorem-dictionary, Language: English
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
-65.
+67.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-65.
+67.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-65.
+67.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-65.
+67.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 65.
+(Font)              scaled to size 11.40997pt on input line 67.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 65.
+(Font)              scaled to size 8.33606pt on input line 67.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 65.
+(Font)              scaled to size 6.25204pt on input line 67.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 65.
+(Font)              scaled to size 11.40997pt on input line 67.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 65.
+(Font)              scaled to size 8.33606pt on input line 67.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 65.
+(Font)              scaled to size 6.25204pt on input line 67.
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-65.
+67.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
@@ -915,9 +915,133 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 ]
 [5
 
-] [6
+]
+<images/wash_post_deaths.png, id=42, 842.14626pt x 838.13126pt>
+File: images/wash_post_deaths.png Graphic file (type png)
+<use images/wash_post_deaths.png>
+Package pdftex.def Info: images/wash_post_deaths.png  used on input line 102.
+(pdftex.def)             Requested size: 185.62204pt x 184.73474pt.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+02.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 102.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 102.
+ [6
 
-] [7
+ <./images/wash_post_deaths.png>]
+<images/vision_zero_deaths.png, id=54, 937.5025pt x 716.6775pt>
+File: images/vision_zero_deaths.png Graphic file (type png)
+<use images/vision_zero_deaths.png>
+Package pdftex.def Info: images/vision_zero_deaths.png  used on input line 112.
+
+(pdftex.def)             Requested size: 259.86972pt x 198.65617pt.
+ [7
+
+ <./images/vision_zero_deaths.png>]
+<images/canada_emissions_by_sector.png, id=64, 1176.395pt x 607.26875pt>
+File: images/canada_emissions_by_sector.png Graphic file (type png)
+<use images/canada_emissions_by_sector.png>
+Package pdftex.def Info: images/canada_emissions_by_sector.png  used on input l
+ine 126.
+(pdftex.def)             Requested size: 296.99638pt x 153.30867pt.
+ [8
+
+ <./images/canada_emissions_by_sector.png>]
+<images/Transport-CO2-emissions-by-mode-bar-chart.png, id=71, 1680.2775pt x 662
+.475pt>
+File: images/Transport-CO2-emissions-by-mode-bar-chart.png Graphic file (type p
+ng)
+<use images/Transport-CO2-emissions-by-mode-bar-chart.png>
+Package pdftex.def Info: images/Transport-CO2-emissions-by-mode-bar-chart.png  
+used on input line 135.
+(pdftex.def)             Requested size: 296.99638pt x 117.08723pt.
+ [9
+
+ <./images/Transport-CO2-emissions-by-mode-bar-chart.png (PNG copy)>]
+<images/traffic_401.png, id=77, 1927.2pt x 1084.05pt>
+File: images/traffic_401.png Graphic file (type png)
+<use images/traffic_401.png>
+Package pdftex.def Info: images/traffic_401.png  used on input line 147.
+(pdftex.def)             Requested size: 296.99638pt x 167.05008pt.
+ [10
+
+ <./images/traffic_401.png>]
+<images/office_space.png, id=85, 1913.1475pt x 951.555pt>
+File: images/office_space.png Graphic file (type png)
+<use images/office_space.png>
+Package pdftex.def Info: images/office_space.png  used on input line 159.
+(pdftex.def)             Requested size: 296.99638pt x 147.70729pt.
+ [11
+
+ <./images/office_space.png>]
+<images/i3.png, id=93, 1927.2pt x 1084.05pt>
+File: images/i3.png Graphic file (type png)
+<use images/i3.png>
+Package pdftex.def Info: images/i3.png  used on input line 174.
+(pdftex.def)             Requested size: 334.1174pt x 187.94168pt.
+ [12
+
+ <./images/i3.png>]
+<images/sprawl_markham407.png, id=100, 1926.19624pt x 964.60374pt>
+File: images/sprawl_markham407.png Graphic file (type png)
+<use images/sprawl_markham407.png>
+Package pdftex.def Info: images/sprawl_markham407.png  used on input line 182.
+(pdftex.def)             Requested size: 334.1174pt x 167.30688pt.
+ [13
+
+ <./images/sprawl_markham407.png>]
+<images/sprawl_life_expectancy.png, id=108, 1043.9pt x 930.47626pt>
+File: images/sprawl_life_expectancy.png Graphic file (type png)
+<use images/sprawl_life_expectancy.png>
+Package pdftex.def Info: images/sprawl_life_expectancy.png  used on input line 
+191.
+(pdftex.def)             Requested size: 222.7487pt x 198.54352pt.
+ [14
+
+ <./images/sprawl_life_expectancy.png>]
+<images/suburbs_tor.png, id=115, 1791.69376pt x 655.44875pt>
+File: images/suburbs_tor.png Graphic file (type png)
+<use images/suburbs_tor.png>
+Package pdftex.def Info: images/suburbs_tor.png  used on input line 200.
+(pdftex.def)             Requested size: 371.24408pt x 135.80804pt.
+ [15
+
+ <./images/suburbs_tor.png>]
+<images/ttc_traffic.png, id=122, 1303.87125pt x 865.2325pt>
+File: images/ttc_traffic.png Graphic file (type png)
+<use images/ttc_traffic.png>
+Package pdftex.def Info: images/ttc_traffic.png  used on input line 209.
+(pdftex.def)             Requested size: 296.99638pt x 197.08495pt.
+ [16
+
+ <./images/ttc_traffic.png>]
+<images/utrecht1.jpg, id=129, 1806.75pt x 1333.783pt>
+File: images/utrecht1.jpg Graphic file (type jpg)
+<use images/utrecht1.jpg>
+Package pdftex.def Info: images/utrecht1.jpg  used on input line 221.
+(pdftex.def)             Requested size: 259.86972pt x 191.83667pt.
+ [17
+
+ <./images/utrecht1.jpg>]
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 243.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 243.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 243.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 243.
+ [18
+
+] [19
+
+] [20
+
+] [21
 
 ]
 \tf@nav=\write6
@@ -929,30 +1053,32 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 \tf@snm=\write8
 \openout8 = `GGR424_C1.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 179.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 179.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 329.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 329.
  (./GGR424_C1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 179.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 179.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 329.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 329.
 Package rerunfilecheck Info: File `GGR424_C1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19223 strings out of 483183
- 355174 string characters out of 5966291
- 775354 words of memory out of 5000000
- 33758 multiletter control sequences out of 15000+600000
- 563408 words of font info for 70 fonts, out of 8000000 for 9000
+ 19412 strings out of 483183
+ 359020 string characters out of 5966291
+ 776354 words of memory out of 5000000
+ 33896 multiletter control sequences out of 15000+600000
+ 581364 words of font info for 102 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  54i,11n,57p,776b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on GGR424_C1.pdf (7 pages, 47948 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} </home/jamaps/.te
+xlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0800.450pk></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/urw/palatino/uplri8a.pfb>
+Output written on GGR424_C1.pdf (21 pages, 28181750 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 237 PDF objects out of 1000 (max. 8388607)
+ 133 compressed objects within 2 object streams
+ 43 named destinations out of 1000 (max. 500000)
+ 103 words of extra memory for PDF output out of 10000 (max. 10000000)
 
