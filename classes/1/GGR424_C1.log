@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  4 JAN 2022 18:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  7 JAN 2022 12:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1003,45 +1003,110 @@ Package pdftex.def Info: images/sprawl_life_expectancy.png  used on input line
  [14
 
  <./images/sprawl_life_expectancy.png>]
-<images/suburbs_tor.png, id=115, 1791.69376pt x 655.44875pt>
-File: images/suburbs_tor.png Graphic file (type png)
-<use images/suburbs_tor.png>
-Package pdftex.def Info: images/suburbs_tor.png  used on input line 200.
-(pdftex.def)             Requested size: 371.24408pt x 135.80804pt.
- [15
-
- <./images/suburbs_tor.png>]
-<images/ttc_traffic.png, id=122, 1303.87125pt x 865.2325pt>
+<images/ttc_traffic.png, id=115, 1303.87125pt x 865.2325pt>
 File: images/ttc_traffic.png Graphic file (type png)
 <use images/ttc_traffic.png>
 Package pdftex.def Info: images/ttc_traffic.png  used on input line 209.
 (pdftex.def)             Requested size: 296.99638pt x 197.08495pt.
- [16
+ [15
 
  <./images/ttc_traffic.png>]
-<images/utrecht1.jpg, id=129, 1806.75pt x 1333.783pt>
+<images/utrecht1.jpg, id=122, 1806.75pt x 1333.783pt>
 File: images/utrecht1.jpg Graphic file (type jpg)
 <use images/utrecht1.jpg>
-Package pdftex.def Info: images/utrecht1.jpg  used on input line 221.
+Package pdftex.def Info: images/utrecht1.jpg  used on input line 227.
 (pdftex.def)             Requested size: 259.86972pt x 191.83667pt.
- [17
+ [16
 
  <./images/utrecht1.jpg>]
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 243.
+(Font)              scaled to size 10.42007pt on input line 248.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 243.
+(Font)              scaled to size 7.91925pt on input line 248.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 243.
+(Font)              scaled to size 10.42007pt on input line 248.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 243.
- [18
+(Font)              scaled to size 7.91925pt on input line 248.
+ [17
+
+] [18
 
 ] [19
 
 ] [20
 
 ] [21
+
+] [22
+
+]
+<images/commute_ideal.png, id=161, 932.48375pt x 581.17125pt>
+File: images/commute_ideal.png Graphic file (type png)
+<use images/commute_ideal.png>
+Package pdftex.def Info: images/commute_ideal.png  used on input line 362.
+(pdftex.def)             Requested size: 259.86972pt x 161.96419pt.
+ [23
+
+ <./images/commute_ideal.png>]
+[24
+
+]
+<images/simple_mode_choice.png, id=175, 1057.9525pt x 338.26375pt>
+File: images/simple_mode_choice.png Graphic file (type png)
+<use images/simple_mode_choice.png>
+Package pdftex.def Info: images/simple_mode_choice.png  used on input line 408.
+
+(pdftex.def)             Requested size: 334.1174pt x 106.8272pt.
+ [25
+
+ <./images/simple_mode_choice.png>]
+<images/bike_route_selection.png, id=183, 1645.14626pt x 868.24374pt>
+File: images/bike_route_selection.png Graphic file (type png)
+<use images/bike_route_selection.png>
+Package pdftex.def Info: images/bike_route_selection.png  used on input line 42
+4.
+(pdftex.def)             Requested size: 363.81761pt x 192.00783pt.
+ [26
+
+ <./images/bike_route_selection.png>]
+<images/suburbs_tor.png, id=190, 1791.69376pt x 655.44875pt>
+File: images/suburbs_tor.png Graphic file (type png)
+<use images/suburbs_tor.png>
+Package pdftex.def Info: images/suburbs_tor.png  used on input line 451.
+(pdftex.def)             Requested size: 363.81761pt x 133.08769pt.
+ [27
+
+ <./images/suburbs_tor.png>]
+<images/smto_stgeorge_all.png, id=197, 1927.2pt x 971.63pt>
+File: images/smto_stgeorge_all.png Graphic file (type png)
+<use images/smto_stgeorge_all.png>
+Package pdftex.def Info: images/smto_stgeorge_all.png  used on input line 466.
+(pdftex.def)             Requested size: 367.53368pt x 185.29361pt.
+ [28
+
+ <./images/smto_stgeorge_all.png>]
+<images/big_links.png, id=205, 980.66376pt x 583.17876pt>
+File: images/big_links.png Graphic file (type png)
+<use images/big_links.png>
+Package pdftex.def Info: images/big_links.png  used on input line 479.
+(pdftex.def)             Requested size: 293.28032pt x 174.40326pt.
+
+[29
+
+ <./images/big_links.png>] [30
+
+] [31
+
+]
+<images/mode_share_gtha_2016.png, id=223, 292.09125pt x 210.7875pt>
+File: images/mode_share_gtha_2016.png Graphic file (type png)
+<use images/mode_share_gtha_2016.png>
+Package pdftex.def Info: images/mode_share_gtha_2016.png  used on input line 54
+1.
+(pdftex.def)             Requested size: 111.37434pt x 80.37347pt.
+ [32
+
+ <./images/mode_share_gtha_2016.png>] [33
 
 ]
 \tf@nav=\write6
@@ -1053,20 +1118,20 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 \tf@snm=\write8
 \openout8 = `GGR424_C1.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 329.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 329.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 596.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 596.
  (./GGR424_C1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 329.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 329.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 596.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 596.
 Package rerunfilecheck Info: File `GGR424_C1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19412 strings out of 483183
- 359020 string characters out of 5966291
- 776354 words of memory out of 5000000
- 33896 multiletter control sequences out of 15000+600000
- 581364 words of font info for 102 fonts, out of 8000000 for 9000
+ 19510 strings out of 483183
+ 360758 string characters out of 5966291
+ 777354 words of memory out of 5000000
+ 33960 multiletter control sequences out of 15000+600000
+ 583206 words of font info for 106 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  54i,11n,57p,776b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} </home/jamaps/.te
@@ -1075,10 +1140,10 @@ ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/palatino/uplri8a.pfb>
-Output written on GGR424_C1.pdf (21 pages, 28181750 bytes).
+Output written on GGR424_C1.pdf (33 pages, 29865681 bytes).
 PDF statistics:
- 237 PDF objects out of 1000 (max. 8388607)
- 133 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 500000)
- 103 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 320 PDF objects out of 1000 (max. 8388607)
+ 189 compressed objects within 2 object streams
+ 67 named destinations out of 1000 (max. 500000)
+ 133 words of extra memory for PDF output out of 10000 (max. 10000000)
 
