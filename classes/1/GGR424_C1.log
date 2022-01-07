@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  7 JAN 2022 12:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  7 JAN 2022 12:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -916,117 +916,118 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 [5
 
 ]
-<images/wash_post_deaths.png, id=42, 842.14626pt x 838.13126pt>
-File: images/wash_post_deaths.png Graphic file (type png)
-<use images/wash_post_deaths.png>
-Package pdftex.def Info: images/wash_post_deaths.png  used on input line 102.
-(pdftex.def)             Requested size: 185.62204pt x 184.73474pt.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-02.
- (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 102.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 102.
- [6
-
- <./images/wash_post_deaths.png>]
-<images/vision_zero_deaths.png, id=54, 937.5025pt x 716.6775pt>
-File: images/vision_zero_deaths.png Graphic file (type png)
-<use images/vision_zero_deaths.png>
-Package pdftex.def Info: images/vision_zero_deaths.png  used on input line 112.
-
-(pdftex.def)             Requested size: 259.86972pt x 198.65617pt.
- [7
-
- <./images/vision_zero_deaths.png>]
-<images/canada_emissions_by_sector.png, id=64, 1176.395pt x 607.26875pt>
+<images/canada_emissions_by_sector.png, id=42, 1176.395pt x 607.26875pt>
 File: images/canada_emissions_by_sector.png Graphic file (type png)
 <use images/canada_emissions_by_sector.png>
 Package pdftex.def Info: images/canada_emissions_by_sector.png  used on input l
-ine 126.
+ine 104.
 (pdftex.def)             Requested size: 296.99638pt x 153.30867pt.
- [8
+ [6
 
  <./images/canada_emissions_by_sector.png>]
-<images/Transport-CO2-emissions-by-mode-bar-chart.png, id=71, 1680.2775pt x 662
+<images/Transport-CO2-emissions-by-mode-bar-chart.png, id=50, 1680.2775pt x 662
 .475pt>
 File: images/Transport-CO2-emissions-by-mode-bar-chart.png Graphic file (type p
 ng)
 <use images/Transport-CO2-emissions-by-mode-bar-chart.png>
 Package pdftex.def Info: images/Transport-CO2-emissions-by-mode-bar-chart.png  
-used on input line 135.
+used on input line 113.
 (pdftex.def)             Requested size: 296.99638pt x 117.08723pt.
- [9
+ [7
 
  <./images/Transport-CO2-emissions-by-mode-bar-chart.png (PNG copy)>]
-<images/traffic_401.png, id=77, 1927.2pt x 1084.05pt>
+<images/traffic_401.png, id=57, 1927.2pt x 1084.05pt>
 File: images/traffic_401.png Graphic file (type png)
 <use images/traffic_401.png>
-Package pdftex.def Info: images/traffic_401.png  used on input line 147.
+Package pdftex.def Info: images/traffic_401.png  used on input line 125.
 (pdftex.def)             Requested size: 296.99638pt x 167.05008pt.
- [10
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+25.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 125.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 125.
+ [8
 
  <./images/traffic_401.png>]
-<images/office_space.png, id=85, 1913.1475pt x 951.555pt>
+<images/office_space.png, id=66, 1913.1475pt x 951.555pt>
 File: images/office_space.png Graphic file (type png)
 <use images/office_space.png>
-Package pdftex.def Info: images/office_space.png  used on input line 159.
+Package pdftex.def Info: images/office_space.png  used on input line 137.
 (pdftex.def)             Requested size: 296.99638pt x 147.70729pt.
- [11
+ [9
 
  <./images/office_space.png>]
-<images/i3.png, id=93, 1927.2pt x 1084.05pt>
+<images/i3.png, id=74, 1927.2pt x 1084.05pt>
 File: images/i3.png Graphic file (type png)
 <use images/i3.png>
-Package pdftex.def Info: images/i3.png  used on input line 174.
+Package pdftex.def Info: images/i3.png  used on input line 152.
 (pdftex.def)             Requested size: 334.1174pt x 187.94168pt.
- [12
+ [10
 
  <./images/i3.png>]
-<images/sprawl_markham407.png, id=100, 1926.19624pt x 964.60374pt>
+<images/sprawl_markham407.png, id=81, 1926.19624pt x 964.60374pt>
 File: images/sprawl_markham407.png Graphic file (type png)
 <use images/sprawl_markham407.png>
-Package pdftex.def Info: images/sprawl_markham407.png  used on input line 182.
+Package pdftex.def Info: images/sprawl_markham407.png  used on input line 160.
 (pdftex.def)             Requested size: 334.1174pt x 167.30688pt.
- [13
+ [11
 
  <./images/sprawl_markham407.png>]
-<images/sprawl_life_expectancy.png, id=108, 1043.9pt x 930.47626pt>
+<images/sprawl_life_expectancy.png, id=88, 1043.9pt x 930.47626pt>
 File: images/sprawl_life_expectancy.png Graphic file (type png)
 <use images/sprawl_life_expectancy.png>
 Package pdftex.def Info: images/sprawl_life_expectancy.png  used on input line 
-191.
+169.
 (pdftex.def)             Requested size: 222.7487pt x 198.54352pt.
- [14
+ [12
 
  <./images/sprawl_life_expectancy.png>]
-<images/ttc_traffic.png, id=115, 1303.87125pt x 865.2325pt>
+<images/ttc_traffic.png, id=95, 1303.87125pt x 865.2325pt>
 File: images/ttc_traffic.png Graphic file (type png)
 <use images/ttc_traffic.png>
-Package pdftex.def Info: images/ttc_traffic.png  used on input line 209.
+Package pdftex.def Info: images/ttc_traffic.png  used on input line 187.
 (pdftex.def)             Requested size: 296.99638pt x 197.08495pt.
- [15
+ [13
 
  <./images/ttc_traffic.png>]
+<images/wash_post_deaths.png, id=103, 842.14626pt x 838.13126pt>
+File: images/wash_post_deaths.png Graphic file (type png)
+<use images/wash_post_deaths.png>
+Package pdftex.def Info: images/wash_post_deaths.png  used on input line 197.
+(pdftex.def)             Requested size: 185.62204pt x 184.73474pt.
+ [14
+
+ <./images/wash_post_deaths.png>]
+<images/vision_zero_deaths.png, id=113, 937.5025pt x 716.6775pt>
+File: images/vision_zero_deaths.png Graphic file (type png)
+<use images/vision_zero_deaths.png>
+Package pdftex.def Info: images/vision_zero_deaths.png  used on input line 207.
+
+(pdftex.def)             Requested size: 259.86972pt x 198.65617pt.
+ [15
+
+ <./images/vision_zero_deaths.png>]
 <images/utrecht1.jpg, id=122, 1806.75pt x 1333.783pt>
 File: images/utrecht1.jpg Graphic file (type jpg)
 <use images/utrecht1.jpg>
-Package pdftex.def Info: images/utrecht1.jpg  used on input line 227.
-(pdftex.def)             Requested size: 259.86972pt x 191.83667pt.
+Package pdftex.def Info: images/utrecht1.jpg  used on input line 230.
+(pdftex.def)             Requested size: 222.7487pt x 164.4227pt.
  [16
 
  <./images/utrecht1.jpg>]
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 248.
+(Font)              scaled to size 10.42007pt on input line 251.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 248.
+(Font)              scaled to size 7.91925pt on input line 251.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 248.
+(Font)              scaled to size 10.42007pt on input line 251.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 248.
+(Font)              scaled to size 7.91925pt on input line 251.
  [17
 
 ] [18
@@ -1043,18 +1044,18 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 <images/commute_ideal.png, id=161, 932.48375pt x 581.17125pt>
 File: images/commute_ideal.png Graphic file (type png)
 <use images/commute_ideal.png>
-Package pdftex.def Info: images/commute_ideal.png  used on input line 362.
+Package pdftex.def Info: images/commute_ideal.png  used on input line 365.
 (pdftex.def)             Requested size: 259.86972pt x 161.96419pt.
- [23
 
- <./images/commute_ideal.png>]
-[24
+[23
+
+ <./images/commute_ideal.png>] [24
 
 ]
 <images/simple_mode_choice.png, id=175, 1057.9525pt x 338.26375pt>
 File: images/simple_mode_choice.png Graphic file (type png)
 <use images/simple_mode_choice.png>
-Package pdftex.def Info: images/simple_mode_choice.png  used on input line 408.
+Package pdftex.def Info: images/simple_mode_choice.png  used on input line 411.
 
 (pdftex.def)             Requested size: 334.1174pt x 106.8272pt.
  [25
@@ -1064,15 +1065,16 @@ Package pdftex.def Info: images/simple_mode_choice.png  used on input line 408.
 File: images/bike_route_selection.png Graphic file (type png)
 <use images/bike_route_selection.png>
 Package pdftex.def Info: images/bike_route_selection.png  used on input line 42
-4.
+7.
 (pdftex.def)             Requested size: 363.81761pt x 192.00783pt.
- [26
+
+[26
 
  <./images/bike_route_selection.png>]
 <images/suburbs_tor.png, id=190, 1791.69376pt x 655.44875pt>
 File: images/suburbs_tor.png Graphic file (type png)
 <use images/suburbs_tor.png>
-Package pdftex.def Info: images/suburbs_tor.png  used on input line 451.
+Package pdftex.def Info: images/suburbs_tor.png  used on input line 454.
 (pdftex.def)             Requested size: 363.81761pt x 133.08769pt.
  [27
 
@@ -1080,29 +1082,30 @@ Package pdftex.def Info: images/suburbs_tor.png  used on input line 451.
 <images/smto_stgeorge_all.png, id=197, 1927.2pt x 971.63pt>
 File: images/smto_stgeorge_all.png Graphic file (type png)
 <use images/smto_stgeorge_all.png>
-Package pdftex.def Info: images/smto_stgeorge_all.png  used on input line 466.
+Package pdftex.def Info: images/smto_stgeorge_all.png  used on input line 469.
 (pdftex.def)             Requested size: 367.53368pt x 185.29361pt.
- [28
+
+[28
 
  <./images/smto_stgeorge_all.png>]
 <images/big_links.png, id=205, 980.66376pt x 583.17876pt>
 File: images/big_links.png Graphic file (type png)
 <use images/big_links.png>
-Package pdftex.def Info: images/big_links.png  used on input line 479.
+Package pdftex.def Info: images/big_links.png  used on input line 482.
 (pdftex.def)             Requested size: 293.28032pt x 174.40326pt.
-
-[29
+ [29
 
  <./images/big_links.png>] [30
 
-] [31
+]
+[31
 
 ]
 <images/mode_share_gtha_2016.png, id=223, 292.09125pt x 210.7875pt>
 File: images/mode_share_gtha_2016.png Graphic file (type png)
 <use images/mode_share_gtha_2016.png>
 Package pdftex.def Info: images/mode_share_gtha_2016.png  used on input line 54
-1.
+4.
 (pdftex.def)             Requested size: 111.37434pt x 80.37347pt.
  [32
 
@@ -1118,19 +1121,19 @@ Package pdftex.def Info: images/mode_share_gtha_2016.png  used on input line 54
 \tf@snm=\write8
 \openout8 = `GGR424_C1.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 596.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 596.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 599.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 599.
  (./GGR424_C1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 596.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 596.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 599.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 599.
 Package rerunfilecheck Info: File `GGR424_C1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19510 strings out of 483183
- 360758 string characters out of 5966291
+ 19508 strings out of 483183
+ 360742 string characters out of 5966291
  777354 words of memory out of 5000000
- 33960 multiletter control sequences out of 15000+600000
+ 33958 multiletter control sequences out of 15000+600000
  583206 words of font info for 106 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  54i,11n,57p,776b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1140,7 +1143,7 @@ ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/palatino/uplri8a.pfb>
-Output written on GGR424_C1.pdf (33 pages, 29865681 bytes).
+Output written on GGR424_C1.pdf (33 pages, 29865673 bytes).
 PDF statistics:
  320 PDF objects out of 1000 (max. 8388607)
  189 compressed objects within 2 object streams
