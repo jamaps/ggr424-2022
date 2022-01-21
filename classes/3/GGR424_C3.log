@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  21 JAN 2022 12:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  21 JAN 2022 13:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -911,12 +911,8 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 File: images/bike_winter.jpg Graphic file (type jpg)
 <use images/bike_winter.jpg>
 Package pdftex.def Info: images/bike_winter.jpg  used on input line 89.
-(pdftex.def)             Requested size: 185.62204pt x 247.6271pt.
-
-Overfull \vbox (6.5523pt too high) detected at line 89
- []
-
-[2
+(pdftex.def)             Requested size: 148.49818pt x 198.09525pt.
+ [2
 
  <./images/bike_winter.jpg>] [3
 
@@ -929,15 +925,15 @@ Package pdftex.def Info: images/active_travel_pollution.png  used on input line
 (pdftex.def)             Requested size: 259.86972pt x 130.28757pt.
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
 30.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
 (Font)              scaled to size 5.21004pt on input line 130.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 5.21004pt on input line 130.
- [4
+
+[4
 
  <./images/active_travel_pollution.png>]
 <images/health_ben_active_travel.png, id=43, 1300.86pt x 659.46375pt>
@@ -966,11 +962,24 @@ ut line 186.
  [7
 
  <./images/economic_impacts_active_travel.png>]
-[8
+<images/deter_active_travel.jpg, id=68, 565.11125pt x 769.87625pt>
+File: images/deter_active_travel.jpg Graphic file (type jpg)
+<use images/deter_active_travel.jpg>
+Package pdftex.def Info: images/deter_active_travel.jpg  used on input line 220
+.
+(pdftex.def)             Requested size: 167.0587pt x 227.58142pt.
+ [8
 
-] [9
+ <./images/deter_active_travel.jpg>]
+<images/ryerson_cycle_danforth.png, id=75, 1635.10875pt x 899.36pt>
+File: images/ryerson_cycle_danforth.png Graphic file (type png)
+<use images/ryerson_cycle_danforth.png>
+Package pdftex.def Info: images/ryerson_cycle_danforth.png  used on input line 
+237.
+(pdftex.def)             Requested size: 352.68074pt x 193.97617pt.
+ [9
 
-] [10
+ <./images/ryerson_cycle_danforth.png>] [10
 
 ]
 \tf@nav=\write6
@@ -982,31 +991,31 @@ ut line 186.
 \tf@snm=\write8
 \openout8 = `GGR424_C3.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 246.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 246.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 265.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 265.
  (./GGR424_C3.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 246.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 246.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 265.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 265.
 Package rerunfilecheck Info: File `GGR424_C3.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19303 strings out of 483183
- 357238 string characters out of 5966291
+ 19317 strings out of 483183
+ 357651 string characters out of 5966291
  776354 words of memory out of 5000000
- 33820 multiletter control sequences out of 15000+600000
- 567597 words of font info for 79 fonts, out of 8000000 for 9000
+ 33830 multiletter control sequences out of 15000+600000
+ 568513 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 54i,11n,57p,776b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,11n,57p,776b,626s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/jamaps/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0800.45
 0pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on GGR424_C3.pdf (10 pages, 782001 bytes).
+Output written on GGR424_C3.pdf (10 pages, 1524988 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
+ 149 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
  21 named destinations out of 1000 (max. 500000)
- 68 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 78 words of extra memory for PDF output out of 10000 (max. 10000000)
 
