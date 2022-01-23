@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  22 JAN 2022 17:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  23 JAN 2022 14:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -978,65 +978,191 @@ Package pdftex.def Info: images/deter_active_travel.jpg  used on input line 221
 [8
 
  <./images/deter_active_travel.jpg>]
-<images/ryerson_cycle_danforth.png, id=76, 1635.10875pt x 899.36pt>
+<images/stroads.png, id=76, 1304.875pt x 780.9175pt>
+File: images/stroads.png Graphic file (type png)
+<use images/stroads.png>
+Package pdftex.def Info: images/stroads.png  used on input line 240.
+(pdftex.def)             Requested size: 315.55972pt x 188.85393pt.
+ [9
+
+ <./images/stroads.png>]
+<images/tor_road_heir.png, id=84, 1350.04375pt x 947.54pt>
+File: images/tor_road_heir.png Graphic file (type png)
+<use images/tor_road_heir.png>
+Package pdftex.def Info: images/tor_road_heir.png  used on input line 255.
+(pdftex.def)             Requested size: 278.43306pt x 195.41808pt.
+ [10
+
+ <./images/tor_road_heir.png>] [11
+
+]
+<images/sweden_road_fatalities.png, id=98, 1065.9825pt x 484.81125pt>
+File: images/sweden_road_fatalities.png Graphic file (type png)
+<use images/sweden_road_fatalities.png>
+Package pdftex.def Info: images/sweden_road_fatalities.png  used on input line 
+291.
+(pdftex.def)             Requested size: 278.43306pt x 126.63235pt.
+ [12
+
+ <./images/sweden_road_fatalities.png>]
+<images/vision_zero_deaths.png, id=106, 937.5025pt x 716.6775pt>
+File: images/vision_zero_deaths.png Graphic file (type png)
+<use images/vision_zero_deaths.png>
+Package pdftex.def Info: images/vision_zero_deaths.png  used on input line 315.
+
+(pdftex.def)             Requested size: 204.18536pt x 156.08388pt.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 315.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 315.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 315.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 315.
+ [13
+
+ <./images/vision_zero_deaths.png>]
+<images/speed_limit_reduction.png, id=115, 1422.31375pt x 877.2775pt>
+File: images/speed_limit_reduction.png Graphic file (type png)
+<use images/speed_limit_reduction.png>
+Package pdftex.def Info: images/speed_limit_reduction.png  used on input line 3
+31.
+(pdftex.def)             Requested size: 278.43306pt x 171.73103pt.
+ [14
+
+ <./images/speed_limit_reduction.png>]
+<images/automated_enforcement.png, id=124, 1447.4075pt x 796.9775pt>
+File: images/automated_enforcement.png Graphic file (type png)
+<use images/automated_enforcement.png>
+Package pdftex.def Info: images/automated_enforcement.png  used on input line 3
+47.
+(pdftex.def)             Requested size: 278.43306pt x 153.31223pt.
+ [15
+
+ <./images/automated_enforcement.png>]
+<images/pedestrian_pxo.png, id=133, 1381.16pt x 532.99126pt>
+File: images/pedestrian_pxo.png Graphic file (type png)
+<use images/pedestrian_pxo.png>
+Package pdftex.def Info: images/pedestrian_pxo.png  used on input line 367.
+(pdftex.def)             Requested size: 371.24408pt x 143.25894pt.
+ [16
+
+ <./images/pedestrian_pxo.png>]
+<images/raised_crossings.png, id=142, 1363.0925pt x 879.285pt>
+File: images/raised_crossings.png Graphic file (type png)
+<use images/raised_crossings.png>
+Package pdftex.def Info: images/raised_crossings.png  used on input line 383.
+(pdftex.def)             Requested size: 296.99638pt x 191.57837pt.
+ [17
+
+ <./images/raised_crossings.png>]
+<images/pedestrian_leading.png, id=150, 1406.25375pt x 542.025pt>
+File: images/pedestrian_leading.png Graphic file (type png)
+<use images/pedestrian_leading.png>
+Package pdftex.def Info: images/pedestrian_leading.png  used on input line 399.
+
+(pdftex.def)             Requested size: 371.24408pt x 143.09007pt.
+ [18
+
+ <./images/pedestrian_leading.png>]
+<images/wellington.jpg, id=159, 3982.88pt x 2987.16pt>
+File: images/wellington.jpg Graphic file (type jpg)
+<use images/wellington.jpg>
+Package pdftex.def Info: images/wellington.jpg  used on input line 416.
+(pdftex.def)             Requested size: 246.87482pt x 185.14731pt.
+ [19
+
+ <./images/wellington.jpg>]
+<images/leaves_road.png, id=170, 747.79375pt x 759.83875pt>
+File: images/leaves_road.png Graphic file (type png)
+<use images/leaves_road.png>
+Package pdftex.def Info: images/leaves_road.png  used on input line 438.
+(pdftex.def)             Requested size: 204.18536pt x 207.46645pt.
+ [20
+
+ <./images/leaves_road.png>]
+<images/glen_2016.png, id=179, 1449.415pt x 819.06pt>
+File: images/glen_2016.png Graphic file (type png)
+<use images/glen_2016.png>
+Package pdftex.def Info: images/glen_2016.png  used on input line 475.
+(pdftex.def)             Requested size: 204.18536pt x 115.37999pt.
+
+Overfull \hbox (18.56332pt too wide) in paragraph at lines 475--475
+ [] 
+ []
+
+<images/glen_2021.png, id=180, 1615.03375pt x 817.0525pt>
+File: images/glen_2021.png Graphic file (type png)
+<use images/glen_2021.png>
+Package pdftex.def Info: images/glen_2021.png  used on input line 475.
+(pdftex.def)             Requested size: 222.74588pt x 112.67856pt.
+
+Overfull \hbox (37.12384pt too wide) in paragraph at lines 475--475
+ [] 
+ []
+
+[21
+
+ <./images/glen_2016.png> <./images/glen_2021.png>]
+<images/bike_inf_comfort.png, id=188, 1270.7475pt x 701.62125pt>
+File: images/bike_inf_comfort.png Graphic file (type png)
+<use images/bike_inf_comfort.png>
+Package pdftex.def Info: images/bike_inf_comfort.png  used on input line 516.
+(pdftex.def)             Requested size: 315.55972pt x 174.22723pt.
+ [22
+
+ <./images/bike_inf_comfort.png>]
+<images/ryerson_cycle_danforth.png, id=196, 1635.10875pt x 899.36pt>
 File: images/ryerson_cycle_danforth.png Graphic file (type png)
 <use images/ryerson_cycle_danforth.png>
 Package pdftex.def Info: images/ryerson_cycle_danforth.png  used on input line 
-237.
+533.
 (pdftex.def)             Requested size: 352.68074pt x 193.97617pt.
- [9
+ [23
 
  <./images/ryerson_cycle_danforth.png>]
-<images/bike_inf_comfort.png, id=84, 1270.7475pt x 701.62125pt>
-File: images/bike_inf_comfort.png Graphic file (type png)
-<use images/bike_inf_comfort.png>
-Package pdftex.def Info: images/bike_inf_comfort.png  used on input line 257.
-(pdftex.def)             Requested size: 315.55972pt x 174.22723pt.
- [10
-
- <./images/bike_inf_comfort.png>]
-<images/bike_parking_neth.jpg, id=92, 803.0pt x 451.6875pt>
+<images/bike_parking_neth.jpg, id=204, 803.0pt x 451.6875pt>
 File: images/bike_parking_neth.jpg Graphic file (type jpg)
 <use images/bike_parking_neth.jpg>
-Package pdftex.def Info: images/bike_parking_neth.jpg  used on input line 279.
+Package pdftex.def Info: images/bike_parking_neth.jpg  used on input line 550.
 (pdftex.def)             Requested size: 315.55972pt x 177.50827pt.
- [11
+ [24
 
  <./images/bike_parking_neth.jpg>]
-<images/norway_bike_escalator.png, id=99, 897.3525pt x 604.2575pt>
+<images/norway_bike_escalator.png, id=211, 897.3525pt x 604.2575pt>
 File: images/norway_bike_escalator.png Graphic file (type png)
 <use images/norway_bike_escalator.png>
-Package pdftex.def Info: images/norway_bike_escalator.png  used on input line 2
-94.
+Package pdftex.def Info: images/norway_bike_escalator.png  used on input line 5
+65.
 (pdftex.def)             Requested size: 315.55972pt x 212.48907pt.
 
-Overfull \vbox (1.44614pt too high) detected at line 294
+Overfull \vbox (1.44614pt too high) detected at line 565
  []
 
-[12
+[25
 
- <./images/norway_bike_escalator.png>]
-<images/wellington.jpg, id=108, 3982.88pt x 2987.16pt>
-File: images/wellington.jpg Graphic file (type jpg)
-<use images/wellington.jpg>
-Package pdftex.def Info: images/wellington.jpg  used on input line 309.
-(pdftex.def)             Requested size: 278.43306pt x 208.8035pt.
- [13
+ <./images/norway_bike_escalator.png>] [26
 
- <./images/wellington.jpg>]
-[14
+]
+<images/complete_street_drawing.jpg, id=227, 752.8125pt x 424.58624pt>
+File: images/complete_street_drawing.jpg Graphic file (type jpg)
+<use images/complete_street_drawing.jpg>
+Package pdftex.def Info: images/complete_street_drawing.jpg  used on input line
+ 602.
+(pdftex.def)             Requested size: 241.30638pt x 136.09712pt.
+ [27
 
-] [15
+ <./images/complete_street_drawing.jpg>] [28
 
-] [16
+] [29
 
-] [17
+] [30
 
-] [18
+] [31
 
-] [19
+] [32
 
-] [20
+] [33
 
 ]
 \tf@nav=\write6
@@ -1048,20 +1174,20 @@ Package pdftex.def Info: images/wellington.jpg  used on input line 309.
 \tf@snm=\write8
 \openout8 = `GGR424_C3.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 414.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 414.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 700.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 700.
  (./GGR424_C3.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 414.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 414.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 700.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 700.
 Package rerunfilecheck Info: File `GGR424_C3.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19387 strings out of 483183
- 358835 string characters out of 5966291
- 776354 words of memory out of 5000000
- 33875 multiletter control sequences out of 15000+600000
- 568513 words of font info for 81 fonts, out of 8000000 for 9000
+ 19534 strings out of 483183
+ 361769 string characters out of 5966291
+ 778354 words of memory out of 5000000
+ 33983 multiletter control sequences out of 15000+600000
+ 577333 words of font info for 98 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  54i,11n,57p,776b,626s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/jamaps/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0800.45
@@ -1069,10 +1195,10 @@ Here is how much of TeX's memory you used:
 ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on GGR424_C3.pdf (20 pages, 12724013 bytes).
+Output written on GGR424_C3.pdf (33 pages, 25718084 bytes).
 PDF statistics:
- 223 PDF objects out of 1000 (max. 8388607)
- 127 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
- 103 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 356 PDF objects out of 1000 (max. 8388607)
+ 206 compressed objects within 3 object streams
+ 67 named destinations out of 1000 (max. 500000)
+ 168 words of extra memory for PDF output out of 10000 (max. 10000000)
 
