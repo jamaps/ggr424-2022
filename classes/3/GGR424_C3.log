@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  24 JAN 2022 11:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  24 JAN 2022 12:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1183,7 +1183,7 @@ Overfull \vbox (1.98682pt too high) detected at line 664
 File: images/avenues_or_arterials.png Graphic file (type png)
 <use images/avenues_or_arterials.png>
 Package pdftex.def Info: images/avenues_or_arterials.png  used on input line 68
-3.
+2.
 (pdftex.def)             Requested size: 334.1174pt x 167.64752pt.
  [28
 
@@ -1191,7 +1191,7 @@ Package pdftex.def Info: images/avenues_or_arterials.png  used on input line 68
 <images/streetmix.png, id=253, 1926.19624pt x 971.63pt>
 File: images/streetmix.png Graphic file (type png)
 <use images/streetmix.png>
-Package pdftex.def Info: images/streetmix.png  used on input line 721.
+Package pdftex.def Info: images/streetmix.png  used on input line 720.
 (pdftex.def)             Requested size: 315.55972pt x 159.17044pt.
 
 [29
@@ -1202,7 +1202,7 @@ Package pdftex.def Info: images/streetmix.png  used on input line 721.
 <images/bike_network_tor.png, id=266, 1337.99875pt x 708.6475pt>
 File: images/bike_network_tor.png Graphic file (type png)
 <use images/bike_network_tor.png>
-Package pdftex.def Info: images/bike_network_tor.png  used on input line 767.
+Package pdftex.def Info: images/bike_network_tor.png  used on input line 766.
 (pdftex.def)             Requested size: 371.24408pt x 196.62497pt.
  [31
 
@@ -1210,7 +1210,7 @@ Package pdftex.def Info: images/bike_network_tor.png  used on input line 767.
 <images/brimley.png, id=275, 1581.91pt x 885.3075pt>
 File: images/brimley.png Graphic file (type png)
 <use images/brimley.png>
-Package pdftex.def Info: images/brimley.png  used on input line 782.
+Package pdftex.def Info: images/brimley.png  used on input line 781.
 (pdftex.def)             Requested size: 371.24408pt x 207.7636pt.
 
 [32
@@ -1219,12 +1219,12 @@ Package pdftex.def Info: images/brimley.png  used on input line 782.
 <images/no_exit.png, id=283, 457.71pt x 312.16624pt>
 File: images/no_exit.png Graphic file (type png)
 <use images/no_exit.png>
-Package pdftex.def Info: images/no_exit.png  used on input line 822.
+Package pdftex.def Info: images/no_exit.png  used on input line 821.
 (pdftex.def)             Requested size: 185.62204pt x 126.59811pt.
 <images/earl_bike.png, id=284, 725.71124pt x 976.64874pt>
 File: images/earl_bike.png Graphic file (type png)
 <use images/earl_bike.png>
-Package pdftex.def Info: images/earl_bike.png  used on input line 822.
+Package pdftex.def Info: images/earl_bike.png  used on input line 821.
 (pdftex.def)             Requested size: 167.0587pt x 224.81822pt.
  [33
 
@@ -1232,7 +1232,7 @@ Package pdftex.def Info: images/earl_bike.png  used on input line 822.
 <images/super_blocks.png, id=292, 1830.84pt x 797.98125pt>
 File: images/super_blocks.png Graphic file (type png)
 <use images/super_blocks.png>
-Package pdftex.def Info: images/super_blocks.png  used on input line 840.
+Package pdftex.def Info: images/super_blocks.png  used on input line 839.
 (pdftex.def)             Requested size: 296.99638pt x 129.44514pt.
  [34
 
@@ -1240,7 +1240,7 @@ Package pdftex.def Info: images/super_blocks.png  used on input line 840.
 <images/suburb_bike_lanes.png, id=301, 1853.92625pt x 828.09375pt>
 File: images/suburb_bike_lanes.png Graphic file (type png)
 <use images/suburb_bike_lanes.png>
-Package pdftex.def Info: images/suburb_bike_lanes.png  used on input line 865.
+Package pdftex.def Info: images/suburb_bike_lanes.png  used on input line 864.
 (pdftex.def)             Requested size: 371.24408pt x 165.81798pt.
  [35
 
@@ -1257,11 +1257,11 @@ Package pdftex.def Info: images/suburb_bike_lanes.png  used on input line 865.
 \tf@snm=\write8
 \openout8 = `GGR424_C3.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 891.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 891.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 890.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 890.
  (./GGR424_C3.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 891.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 891.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 890.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 890.
 Package rerunfilecheck Info: File `GGR424_C3.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
@@ -1278,7 +1278,7 @@ Here is how much of TeX's memory you used:
 ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on GGR424_C3.pdf (36 pages, 40373699 bytes).
+Output written on GGR424_C3.pdf (36 pages, 40373485 bytes).
 PDF statistics:
  410 PDF objects out of 1000 (max. 8388607)
  234 compressed objects within 3 object streams
