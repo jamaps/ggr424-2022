@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  28 JAN 2022 14:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  29 JAN 2022 16:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -980,19 +980,172 @@ Overfull \vbox (0.19893pt too high) detected at line 228
 
 [8
 
- <./images/paris_metro.png>] [9
+ <./images/paris_metro.png>]
+<images/network_designs.png, id=74, 906.38625pt x 769.87625pt>
+File: images/network_designs.png Graphic file (type png)
+<use images/network_designs.png>
+Package pdftex.def Info: images/network_designs.png  used on input line 244.
+(pdftex.def)             Requested size: 222.7487pt x 189.19107pt.
+ [9
 
-] [10
+ <./images/network_designs.png>]
+<images/monorail.png, id=82, 633.36626pt x 499.8675pt>
+File: images/monorail.png Graphic file (type png)
+<use images/monorail.png>
+Package pdftex.def Info: images/monorail.png  used on input line 287.
+(pdftex.def)             Requested size: 181.9088pt x 143.56204pt.
+ [10
 
-] [11
+ <./images/monorail.png>]
+<images/wiki_transit.png, id=89, 885.3075pt x 592.2125pt>
+File: images/wiki_transit.png Graphic file (type png)
+<use images/wiki_transit.png>
+Package pdftex.def Info: images/wiki_transit.png  used on input line 304.
+(pdftex.def)             Requested size: 282.14345pt x 188.73473pt.
+ [11
 
-] [12
+ <./images/wiki_transit.png>]
+File: images/spadina_streetcar.jpg Graphic file (type jpg)
+<use images/spadina_streetcar.jpg>
+Package pdftex.def Info: images/spadina_streetcar.jpg  used on input line 348.
+(pdftex.def)             Requested size: 148.49536pt x 111.36304pt.
+ [12
 
-] [13
+]
+<images/hamburg.png, id=102, 1151.30125pt x 619.31375pt>
+File: images/hamburg.png Graphic file (type png)
+<use images/hamburg.png>
+Package pdftex.def Info: images/hamburg.png  used on input line 378.
+(pdftex.def)             Requested size: 259.86972pt x 139.78372pt.
+ [13
 
-] [14
+ <./images/hamburg.png>]
+<images/lrt_spain.png, id=110, 1077.02374pt x 604.2575pt>
+File: images/lrt_spain.png Graphic file (type png)
+<use images/lrt_spain.png>
+Package pdftex.def Info: images/lrt_spain.png  used on input line 407.
+(pdftex.def)             Requested size: 259.86972pt x 145.79926pt.
+ [14
 
-] [15
+ <./images/lrt_spain.png>]
+<images/transmilenio.png, id=118, 1142.2675pt x 658.46pt>
+File: images/transmilenio.png Graphic file (type png)
+<use images/transmilenio.png>
+Package pdftex.def Info: images/transmilenio.png  used on input line 443.
+(pdftex.def)             Requested size: 259.86972pt x 149.79486pt.
+ [15
+
+ <./images/transmilenio.png>]
+<images/trolleybus.jpg, id=126, 1806.75pt x 1148.29pt>
+File: images/trolleybus.jpg Graphic file (type jpg)
+<use images/trolleybus.jpg>
+Package pdftex.def Info: images/trolleybus.jpg  used on input line 469.
+(pdftex.def)             Requested size: 285.85951pt x 181.68013pt.
+ [16
+
+ <./images/trolleybus.jpg>]
+<images/metro_medellin.png, id=133, 865.2325pt x 894.34125pt>
+File: images/metro_medellin.png Graphic file (type png)
+<use images/metro_medellin.png>
+Package pdftex.def Info: images/metro_medellin.png  used on input line 507.
+(pdftex.def)             Requested size: 167.0587pt x 172.66956pt.
+<images/metrocable.jpg, id=134, 394.47375pt x 383.93437pt>
+File: images/metrocable.jpg Graphic file (type jpg)
+<use images/metrocable.jpg>
+Package pdftex.def Info: images/metrocable.jpg  used on input line 507.
+(pdftex.def)             Requested size: 185.62204pt x 180.66006pt.
+ [17
+
+ <./images/metro_medellin.png> <./images/metrocable.jpg>]
+<images/crowding.png, id=142, 1903.11pt x 879.285pt>
+File: images/crowding.png Graphic file (type png)
+<use images/crowding.png>
+Package pdftex.def Info: images/crowding.png  used on input line 529.
+(pdftex.def)             Requested size: 371.24408pt x 171.52026pt.
+
+[18
+
+ <./images/crowding.png>]
+<images/ttc_schedule_eg.png, id=149, 716.6775pt x 822.07124pt>
+File: images/ttc_schedule_eg.png Graphic file (type png)
+<use images/ttc_schedule_eg.png>
+Package pdftex.def Info: images/ttc_schedule_eg.png  used on input line 567.
+(pdftex.def)             Requested size: 185.62204pt x 212.91814pt.
+ [19
+
+ <./images/ttc_schedule_eg.png>]
+<images/frequency_usa.png, id=157, 1822.81pt x 578.16pt>
+File: images/frequency_usa.png Graphic file (type png)
+<use images/frequency_usa.png>
+Package pdftex.def Info: images/frequency_usa.png  used on input line 585.
+(pdftex.def)             Requested size: 371.24408pt x 117.74722pt.
+ [20
+
+ <./images/frequency_usa.png>]
+<images/toronto_frequency.png, id=165, 1794.705pt x 943.525pt>
+File: images/toronto_frequency.png Graphic file (type png)
+<use images/toronto_frequency.png>
+Package pdftex.def Info: images/toronto_frequency.png  used on input line 599.
+(pdftex.def)             Requested size: 371.24408pt x 195.16591pt.
+ [21
+
+ <./images/toronto_frequency.png>]
+<images/gta_frequency.jpg, id=173, 1284.8pt x 794.97pt>
+File: images/gta_frequency.jpg Graphic file (type jpg)
+<use images/gta_frequency.jpg>
+Package pdftex.def Info: images/gta_frequency.jpg  used on input line 614.
+(pdftex.def)             Requested size: 296.99638pt x 183.76115pt.
+ [22
+
+ <./images/gta_frequency.jpg>]
+<images/stop_spacing.jpg, id=181, 610.28pt x 333.245pt>
+File: images/stop_spacing.jpg Graphic file (type jpg)
+<use images/stop_spacing.jpg>
+Package pdftex.def Info: images/stop_spacing.jpg  used on input line 639.
+(pdftex.def)             Requested size: 222.7487pt x 121.63086pt.
+ [23
+
+ <./images/stop_spacing.jpg>]
+<images/greenwood.png, id=188, 1224.575pt x 829.0975pt>
+File: images/greenwood.png Graphic file (type png)
+<use images/greenwood.png>
+Package pdftex.def Info: images/greenwood.png  used on input line 674.
+(pdftex.def)             Requested size: 185.62204pt x 125.67496pt.
+<images/agincourt.png, id=189, 1226.5825pt x 832.10875pt>
+File: images/agincourt.png Graphic file (type png)
+<use images/agincourt.png>
+Package pdftex.def Info: images/agincourt.png  used on input line 674.
+(pdftex.def)             Requested size: 185.62204pt x 125.91556pt.
+ [24
+
+ <./images/greenwood.png> <./images/agincourt.png>]
+<images/transit-miami-screenshot.png, id=197, 812.03375pt x 363.3575pt>
+File: images/transit-miami-screenshot.png Graphic file (type png)
+<use images/transit-miami-screenshot.png>
+Package pdftex.def Info: images/transit-miami-screenshot.png  used on input lin
+e 695.
+(pdftex.def)             Requested size: 371.24408pt x 166.11522pt.
+ [25
+
+ <./images/transit-miami-screenshot.png>]
+<images/finch39.jpg, id=205, 1090.0725pt x 645.41125pt>
+File: images/finch39.jpg Graphic file (type jpg)
+<use images/finch39.jpg>
+Package pdftex.def Info: images/finch39.jpg  used on input line 713.
+(pdftex.def)             Requested size: 296.99638pt x 175.83907pt.
+ [26
+
+ <./images/finch39.jpg>]
+<images/bus-bunching.png, id=211, 1737.49126pt x 994.71625pt>
+File: images/bus-bunching.png Graphic file (type png)
+<use images/bus-bunching.png>
+Package pdftex.def Info: images/bus-bunching.png  used on input line 733.
+(pdftex.def)             Requested size: 296.99638pt x 170.02539pt.
+ [27
+
+ <./images/bus-bunching.png>] [28
+
+] [29
 
 ]
 \tf@nav=\write6
@@ -1004,33 +1157,32 @@ Overfull \vbox (0.19893pt too high) detected at line 228
 \tf@snm=\write8
 \openout8 = `GGR424_C4.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 297.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 297.
-
-(./GGR424_C4.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 297.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 297.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 793.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 793.
+ (./GGR424_C4.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 793.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 793.
 Package rerunfilecheck Info: File `GGR424_C4.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19356 strings out of 483183
- 357793 string characters out of 5966291
+ 19559 strings out of 483183
+ 362100 string characters out of 5966291
  777354 words of memory out of 5000000
- 33860 multiletter control sequences out of 15000+600000
+ 34015 multiletter control sequences out of 15000+600000
  577343 words of font info for 98 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 54i,11n,57p,776b,654s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,11n,57p,776b,685s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} </home/jamaps/.te
 xlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0800.450pk></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/palatino/uplri8a.pfb>
-Output written on GGR424_C4.pdf (15 pages, 2815201 bytes).
+Output written on GGR424_C4.pdf (29 pages, 20111060 bytes).
 PDF statistics:
- 165 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
- 31 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 305 PDF objects out of 1000 (max. 8388607)
+ 175 compressed objects within 2 object streams
+ 59 named destinations out of 1000 (max. 500000)
+ 173 words of extra memory for PDF output out of 10000 (max. 10000000)
 
