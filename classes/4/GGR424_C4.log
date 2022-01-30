@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  30 JAN 2022 12:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  30 JAN 2022 13:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1159,69 +1159,153 @@ Package pdftex.def Info: images/bus-bunching.png  used on input line 763.
 (pdftex.def)             Requested size: 296.99638pt x 170.02539pt.
  [29
 
- <./images/bus-bunching.png>] [30
+ <./images/bus-bunching.png>]
+<images/wait_time.png, id=232, 1002.74625pt x 462.72874pt>
+File: images/wait_time.png Graphic file (type png)
+<use images/wait_time.png>
+Package pdftex.def Info: images/wait_time.png  used on input line 780.
+(pdftex.def)             Requested size: 222.7487pt x 102.78912pt.
+ [30
 
-] [31
+ <./images/wait_time.png>]
+[31
 
 ]
-<images/ttc-fares.png, id=243, 712.91344pt x 475.02469pt>
+<images/ttc-fares.png, id=245, 712.91344pt x 475.02469pt>
 File: images/ttc-fares.png Graphic file (type png)
 <use images/ttc-fares.png>
-Package pdftex.def Info: images/ttc-fares.png  used on input line 816.
+Package pdftex.def Info: images/ttc-fares.png  used on input line 822.
 (pdftex.def)             Requested size: 296.99638pt x 197.89262pt.
  [32
 
  <./images/ttc-fares.png (PNG copy)>]
-<images/bus_stop_ttc.jpeg, id=250, 1090.0725pt x 611.28375pt>
+<images/bus_stop_ttc.jpeg, id=252, 1090.0725pt x 611.28375pt>
 File: images/bus_stop_ttc.jpeg Graphic file (type jpg)
 <use images/bus_stop_ttc.jpeg>
-Package pdftex.def Info: images/bus_stop_ttc.jpeg  used on input line 831.
+Package pdftex.def Info: images/bus_stop_ttc.jpeg  used on input line 837.
 (pdftex.def)             Requested size: 296.99638pt x 166.5412pt.
  [33
 
  <./images/bus_stop_ttc.jpeg>]
-<images/ttc_transfer.jpg, id=256, 1090.0725pt x 723.70375pt>
+<images/ttc_transfer.jpg, id=258, 1090.0725pt x 723.70375pt>
 File: images/ttc_transfer.jpg Graphic file (type jpg)
 <use images/ttc_transfer.jpg>
-Package pdftex.def Info: images/ttc_transfer.jpg  used on input line 845.
+Package pdftex.def Info: images/ttc_transfer.jpg  used on input line 851.
 (pdftex.def)             Requested size: 296.99638pt x 197.16946pt.
- [34
+[34
 
  <./images/ttc_transfer.jpg>]
-<images/eglinton_old_toronto.jpg, id=262, 803.0pt x 358.33875pt>
+<images/eglinton_old_toronto.jpg, id=264, 803.0pt x 358.33875pt>
 File: images/eglinton_old_toronto.jpg Graphic file (type jpg)
 <use images/eglinton_old_toronto.jpg>
-Package pdftex.def Info: images/eglinton_old_toronto.jpg  used on input line 86
-5.
+Package pdftex.def Info: images/eglinton_old_toronto.jpg  used on input line 87
+1.
 (pdftex.def)             Requested size: 363.81761pt x 162.35544pt.
  [35
 
  <./images/eglinton_old_toronto.jpg>]
-<images/rotterdam.jpg, id=270, 2055.68pt x 1027.84pt>
+<images/rotterdam.jpg, id=272, 2055.68pt x 1027.84pt>
 File: images/rotterdam.jpg Graphic file (type jpg)
 <use images/rotterdam.jpg>
-Package pdftex.def Info: images/rotterdam.jpg  used on input line 880.
+Package pdftex.def Info: images/rotterdam.jpg  used on input line 886.
 (pdftex.def)             Requested size: 363.81761pt x 181.89787pt.
- [36
+
+[36
 
  <./images/rotterdam.jpg>]
-<images/st-george.jpg, id=277, 4015.0pt x 3086.53125pt>
+<images/st-george.jpg, id=279, 4015.0pt x 3086.53125pt>
 File: images/st-george.jpg Graphic file (type jpg)
 <use images/st-george.jpg>
-Package pdftex.def Info: images/st-george.jpg  used on input line 919.
+Package pdftex.def Info: images/st-george.jpg  used on input line 925.
 (pdftex.def)             Requested size: 185.62204pt x 142.65564pt.
-
-[37
+ [37
 
  <./images/st-george.jpg>]
-<images/whitby.jpg, id=284, 3276.24pt x 1842.885pt>
+<images/whitby.jpg, id=286, 3276.24pt x 1842.885pt>
 File: images/whitby.jpg Graphic file (type jpg)
 <use images/whitby.jpg>
-Package pdftex.def Info: images/whitby.jpg  used on input line 935.
+Package pdftex.def Info: images/whitby.jpg  used on input line 941.
 (pdftex.def)             Requested size: 363.81761pt x 204.63014pt.
  [38
 
- <./images/whitby.jpg>] [39
+ <./images/whitby.jpg>]
+<images/i3.png, id=292, 1927.2pt x 1084.05pt>
+File: images/i3.png Graphic file (type png)
+<use images/i3.png>
+Package pdftex.def Info: images/i3.png  used on input line 960.
+(pdftex.def)             Requested size: 289.56992pt x 162.88168pt.
+ [39
+
+ <./images/i3.png>]
+<images/marine_2009.jpg, id=299, 513.92pt x 385.44pt>
+File: images/marine_2009.jpg Graphic file (type jpg)
+<use images/marine_2009.jpg>
+Package pdftex.def Info: images/marine_2009.jpg  used on input line 1000.
+(pdftex.def)             Requested size: 185.62204pt x 139.21703pt.
+<images/marine_2018.jpg, id=300, 1284.8pt x 963.6pt>
+File: images/marine_2018.jpg Graphic file (type jpg)
+<use images/marine_2018.jpg>
+Package pdftex.def Info: images/marine_2018.jpg  used on input line 1000.
+(pdftex.def)             Requested size: 185.62204pt x 139.21115pt.
+ [40
+
+ <./images/marine_2009.jpg> <./images/marine_2018.jpg>]
+<images/toronto_plan_1910.png, id=308, 1305.87875pt x 666.49pt>
+File: images/toronto_plan_1910.png Graphic file (type png)
+<use images/toronto_plan_1910.png>
+Package pdftex.def Info: images/toronto_plan_1910.png  used on input line 1017.
+
+(pdftex.def)             Requested size: 334.1174pt x 170.51712pt.
+ [41
+
+ <./images/toronto_plan_1910.png>]
+<images/toronto_plan_1945.png, id=315, 943.525pt x 699.61375pt>
+File: images/toronto_plan_1945.png Graphic file (type png)
+<use images/toronto_plan_1945.png>
+Package pdftex.def Info: images/toronto_plan_1945.png  used on input line 1033.
+
+(pdftex.def)             Requested size: 296.99638pt x 220.21936pt.
+ [42
+
+ <./images/toronto_plan_1945.png>]
+<images/toronto_plan_1973.png, id=322, 988.69376pt x 713.66624pt>
+File: images/toronto_plan_1973.png Graphic file (type png)
+<use images/toronto_plan_1973.png>
+Package pdftex.def Info: images/toronto_plan_1973.png  used on input line 1049.
+
+(pdftex.def)             Requested size: 296.99638pt x 214.37376pt.
+ [43
+
+ <./images/toronto_plan_1973.png>]
+<images/toronto_plan_2019.png, id=330, 900.36375pt x 714.67pt>
+File: images/toronto_plan_2019.png Graphic file (type png)
+<use images/toronto_plan_2019.png>
+Package pdftex.def Info: images/toronto_plan_2019.png  used on input line 1065.
+
+(pdftex.def)             Requested size: 296.99638pt x 235.74368pt.
+
+Overfull \vbox (9.07208pt too high) detected at line 1065
+ []
+
+[44
+
+ <./images/toronto_plan_2019.png>]
+<images/mx_plan_2019.png, id=337, 1022.82124pt x 713.66624pt>
+File: images/mx_plan_2019.png Graphic file (type png)
+<use images/mx_plan_2019.png>
+Package pdftex.def Info: images/mx_plan_2019.png  used on input line 1080.
+(pdftex.def)             Requested size: 296.99638pt x 207.21925pt.
+ [45
+
+ <./images/mx_plan_2019.png>]
+<images/ttc-5-year.png, id=345, 1292.83pt x 870.25125pt>
+File: images/ttc-5-year.png Graphic file (type png)
+<use images/ttc-5-year.png>
+Package pdftex.def Info: images/ttc-5-year.png  used on input line 1100.
+(pdftex.def)             Requested size: 296.99638pt x 199.91455pt.
+ [46
+
+ <./images/ttc-5-year.png>] [47
 
 ]
 \tf@nav=\write6
@@ -1233,19 +1317,20 @@ Package pdftex.def Info: images/whitby.jpg  used on input line 935.
 \tf@snm=\write8
 \openout8 = `GGR424_C4.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 979.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 979.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1137.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1137.
  (./GGR424_C4.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 979.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 979.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1137.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1137.
+
 Package rerunfilecheck Info: File `GGR424_C4.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19654 strings out of 483183
- 363756 string characters out of 5966291
+ 19746 strings out of 483183
+ 365554 string characters out of 5966291
  777354 words of memory out of 5000000
- 34080 multiletter control sequences out of 15000+600000
+ 34146 multiletter control sequences out of 15000+600000
  577343 words of font info for 98 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  54i,11n,57p,776b,685s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1255,10 +1340,10 @@ ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/palatino/uplri8a.pfb>
-Output written on GGR424_C4.pdf (39 pages, 24119175 bytes).
+Output written on GGR424_C4.pdf (47 pages, 34035896 bytes).
 PDF statistics:
- 384 PDF objects out of 1000 (max. 8388607)
- 228 compressed objects within 3 object streams
- 79 named destinations out of 1000 (max. 500000)
- 218 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 460 PDF objects out of 1000 (max. 8388607)
+ 266 compressed objects within 3 object streams
+ 95 named destinations out of 1000 (max. 500000)
+ 268 words of extra memory for PDF output out of 10000 (max. 10000000)
 

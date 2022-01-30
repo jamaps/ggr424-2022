@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   sodipodi:docname="wait_time.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.2532751"
+     inkscape:cx="197.37731"
+     inkscape:cy="370.06777"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid857"
+       spacingx="5.2916667"
+       spacingy="5.2916667" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 26.458333,79.374999 H 79.374999"
+       id="path972" />
+    <ellipse
+       style="fill:#1cb3f0;fill-opacity:0.75;stroke:#e63539;stroke-width:0.529167;stroke-linecap:round;stop-color:#000000"
+       id="path1189"
+       cx="26.458332"
+       cy="79.375"
+       rx="4.999996e-07"
+       ry="1.5000001e-06" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 26.458333,79.374999 v 2.108938"
+       id="path1488" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 79.374999,79.374999 v 2.108938"
+       id="path1488-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 52.916666,79.374999 v 2.108938"
+       id="path1488-7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 26.458334,95.250001 H 79.375"
+       id="path972-8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 26.458334,95.250001 v 2.108938"
+       id="path1488-5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 79.375,95.250001 v 2.108938"
+       id="path1488-1-7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 66.069116,95.250001 v 2.108938"
+       id="path1488-7-4" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="22.699041"
+       y="85.02021"
+       id="text2735"><tspan
+         sodipodi:role="line"
+         id="tspan2733"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="22.699041"
+         y="85.02021">1:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="49.157375"
+       y="85.02021"
+       id="text2735-5"><tspan
+         sodipodi:role="line"
+         id="tspan2733-3"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="49.157375"
+         y="85.02021">1:20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="31.20133"
+       y="77.198975"
+       id="text2735-5-3"><tspan
+         sodipodi:role="line"
+         id="tspan2733-3-3"
+         style="font-size:3.52778px;fill:#ff0000;stroke-width:0.264583"
+         x="31.20133"
+         y="77.198975">Average wait time = 10min</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="30.921867"
+       y="93.083229"
+       id="text2735-5-3-8"><tspan
+         sodipodi:role="line"
+         id="tspan2733-3-3-6"
+         style="font-size:3.52778px;fill:#ff0000;stroke-width:0.264583"
+         x="30.921867"
+         y="93.083229">Average wait time = 12.5min</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="75.5541"
+       y="85.08181"
+       id="text2735-5-8"><tspan
+         sodipodi:role="line"
+         id="tspan2733-3-8"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="75.5541"
+         y="85.08181">1:40</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="22.786888"
+       y="100.66676"
+       id="text2735-3"><tspan
+         sodipodi:role="line"
+         id="tspan2733-1"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="22.786888"
+         y="100.66676">1:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="62.142159"
+       y="100.66676"
+       id="text2735-5-89"><tspan
+         sodipodi:role="line"
+         id="tspan2733-3-6"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="62.142159"
+         y="100.66676">1:30</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';stroke-width:0.264583"
+       x="75.64196"
+       y="100.72836"
+       id="text2735-5-8-4"><tspan
+         sodipodi:role="line"
+         id="tspan2733-3-8-3"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="75.64196"
+         y="100.72836">1:40</tspan></text>
+  </g>
+</svg>
