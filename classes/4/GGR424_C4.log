@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  29 JAN 2022 16:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  30 JAN 2022 12:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1119,33 +1119,109 @@ Package pdftex.def Info: images/agincourt.png  used on input line 674.
  [24
 
  <./images/greenwood.png> <./images/agincourt.png>]
-<images/transit-miami-screenshot.png, id=197, 812.03375pt x 363.3575pt>
+<images/ttc_express.png, id=197, 1391.1975pt x 884.30376pt>
+File: images/ttc_express.png Graphic file (type png)
+<use images/ttc_express.png>
+Package pdftex.def Info: images/ttc_express.png  used on input line 687.
+(pdftex.def)             Requested size: 334.1174pt x 212.37216pt.
+ [25
+
+ <./images/ttc_express.png>]
+<images/transit-miami-screenshot.png, id=205, 812.03375pt x 363.3575pt>
 File: images/transit-miami-screenshot.png Graphic file (type png)
 <use images/transit-miami-screenshot.png>
 Package pdftex.def Info: images/transit-miami-screenshot.png  used on input lin
-e 695.
+e 708.
 (pdftex.def)             Requested size: 371.24408pt x 166.11522pt.
- [25
-
- <./images/transit-miami-screenshot.png>]
-<images/finch39.jpg, id=205, 1090.0725pt x 645.41125pt>
-File: images/finch39.jpg Graphic file (type jpg)
-<use images/finch39.jpg>
-Package pdftex.def Info: images/finch39.jpg  used on input line 713.
-(pdftex.def)             Requested size: 296.99638pt x 175.83907pt.
  [26
 
- <./images/finch39.jpg>]
-<images/bus-bunching.png, id=211, 1737.49126pt x 994.71625pt>
-File: images/bus-bunching.png Graphic file (type png)
-<use images/bus-bunching.png>
-Package pdftex.def Info: images/bus-bunching.png  used on input line 733.
-(pdftex.def)             Requested size: 296.99638pt x 170.02539pt.
+ <./images/transit-miami-screenshot.png>]
+<images/king-street.png, id=212, 602.25pt x 376.40625pt>
+File: images/king-street.png Graphic file (type png)
+<use images/king-street.png>
+Package pdftex.def Info: images/king-street.png  used on input line 725.
+(pdftex.def)             Requested size: 296.99638pt x 185.62956pt.
  [27
 
- <./images/bus-bunching.png>] [28
+ <./images/king-street.png (PNG copy)>]
+<images/finch39.jpg, id=218, 1090.0725pt x 645.41125pt>
+File: images/finch39.jpg Graphic file (type jpg)
+<use images/finch39.jpg>
+Package pdftex.def Info: images/finch39.jpg  used on input line 743.
+(pdftex.def)             Requested size: 296.99638pt x 175.83907pt.
+ [28
 
-] [29
+ <./images/finch39.jpg>]
+<images/bus-bunching.png, id=224, 1737.49126pt x 994.71625pt>
+File: images/bus-bunching.png Graphic file (type png)
+<use images/bus-bunching.png>
+Package pdftex.def Info: images/bus-bunching.png  used on input line 763.
+(pdftex.def)             Requested size: 296.99638pt x 170.02539pt.
+ [29
+
+ <./images/bus-bunching.png>] [30
+
+] [31
+
+]
+<images/ttc-fares.png, id=243, 712.91344pt x 475.02469pt>
+File: images/ttc-fares.png Graphic file (type png)
+<use images/ttc-fares.png>
+Package pdftex.def Info: images/ttc-fares.png  used on input line 816.
+(pdftex.def)             Requested size: 296.99638pt x 197.89262pt.
+ [32
+
+ <./images/ttc-fares.png (PNG copy)>]
+<images/bus_stop_ttc.jpeg, id=250, 1090.0725pt x 611.28375pt>
+File: images/bus_stop_ttc.jpeg Graphic file (type jpg)
+<use images/bus_stop_ttc.jpeg>
+Package pdftex.def Info: images/bus_stop_ttc.jpeg  used on input line 831.
+(pdftex.def)             Requested size: 296.99638pt x 166.5412pt.
+ [33
+
+ <./images/bus_stop_ttc.jpeg>]
+<images/ttc_transfer.jpg, id=256, 1090.0725pt x 723.70375pt>
+File: images/ttc_transfer.jpg Graphic file (type jpg)
+<use images/ttc_transfer.jpg>
+Package pdftex.def Info: images/ttc_transfer.jpg  used on input line 845.
+(pdftex.def)             Requested size: 296.99638pt x 197.16946pt.
+ [34
+
+ <./images/ttc_transfer.jpg>]
+<images/eglinton_old_toronto.jpg, id=262, 803.0pt x 358.33875pt>
+File: images/eglinton_old_toronto.jpg Graphic file (type jpg)
+<use images/eglinton_old_toronto.jpg>
+Package pdftex.def Info: images/eglinton_old_toronto.jpg  used on input line 86
+5.
+(pdftex.def)             Requested size: 363.81761pt x 162.35544pt.
+ [35
+
+ <./images/eglinton_old_toronto.jpg>]
+<images/rotterdam.jpg, id=270, 2055.68pt x 1027.84pt>
+File: images/rotterdam.jpg Graphic file (type jpg)
+<use images/rotterdam.jpg>
+Package pdftex.def Info: images/rotterdam.jpg  used on input line 880.
+(pdftex.def)             Requested size: 363.81761pt x 181.89787pt.
+ [36
+
+ <./images/rotterdam.jpg>]
+<images/st-george.jpg, id=277, 4015.0pt x 3086.53125pt>
+File: images/st-george.jpg Graphic file (type jpg)
+<use images/st-george.jpg>
+Package pdftex.def Info: images/st-george.jpg  used on input line 919.
+(pdftex.def)             Requested size: 185.62204pt x 142.65564pt.
+
+[37
+
+ <./images/st-george.jpg>]
+<images/whitby.jpg, id=284, 3276.24pt x 1842.885pt>
+File: images/whitby.jpg Graphic file (type jpg)
+<use images/whitby.jpg>
+Package pdftex.def Info: images/whitby.jpg  used on input line 935.
+(pdftex.def)             Requested size: 363.81761pt x 204.63014pt.
+ [38
+
+ <./images/whitby.jpg>] [39
 
 ]
 \tf@nav=\write6
@@ -1157,19 +1233,19 @@ Package pdftex.def Info: images/bus-bunching.png  used on input line 733.
 \tf@snm=\write8
 \openout8 = `GGR424_C4.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 793.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 793.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 979.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 979.
  (./GGR424_C4.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 793.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 793.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 979.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 979.
 Package rerunfilecheck Info: File `GGR424_C4.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19559 strings out of 483183
- 362100 string characters out of 5966291
+ 19654 strings out of 483183
+ 363756 string characters out of 5966291
  777354 words of memory out of 5000000
- 34015 multiletter control sequences out of 15000+600000
+ 34080 multiletter control sequences out of 15000+600000
  577343 words of font info for 98 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  54i,11n,57p,776b,685s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1179,10 +1255,10 @@ ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/palatino/uplri8a.pfb>
-Output written on GGR424_C4.pdf (29 pages, 20111060 bytes).
+Output written on GGR424_C4.pdf (39 pages, 24119175 bytes).
 PDF statistics:
- 305 PDF objects out of 1000 (max. 8388607)
- 175 compressed objects within 2 object streams
- 59 named destinations out of 1000 (max. 500000)
- 173 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 384 PDF objects out of 1000 (max. 8388607)
+ 228 compressed objects within 3 object streams
+ 79 named destinations out of 1000 (max. 500000)
+ 218 words of extra memory for PDF output out of 10000 (max. 10000000)
 
