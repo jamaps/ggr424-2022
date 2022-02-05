@@ -580,5 +580,250 @@ commentstyle=color{comments}emph}
 
 
 
+\begin{frame}
+	
+	\textbf{Origin-Destination (OD) Matrices}
+	\begin{itemize}
+		\item Common output of network distances/times from a set of origins to a set of destinations
+		\item Also called travel time or distance matrices
+		\item e.g. an isochrone can be a one-to-many OD matrix, capped at a certain threshold (e.g. 30 minutes)
+	\end{itemize}
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.66\linewidth]{images/odmatrix}
+	\end{figure}
+	
+\end{frame}
+
+
+
+
+\begin{frame}
+	
+	\textbf{Accessibility}
+
+	\begin{itemize}
+		\item \textit{The ease of reaching destinations}
+		\item Depends on mobility (ease of travelling), but also land-use (i.e. the proximity of destinations)
+		
+		\item Can be measured and mapped for specific places by combining transportation network and land-use data 
+		
+		\item Two common measurements: 
+		\begin{enumerate}
+			\item minimum travel time to reach X (usually for \textit{local} analysis)
+			\item how many Y can you reach in Z minutes (usually for \textit{regional} analysis)
+		\end{enumerate}
+	
+		\item Increasingly used to evaluate transportation networks and urban livability
+		
+	\end{itemize}
+	
+\end{frame}
+
+
+
+
+
+
+
+
+
+
+\begin{frame}
+	
+	\textbf{Measuring accessibility} - minimum travel time to reach X 
+	
+	(e.g. a healthy food retailer)
+		
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.86\linewidth]{images/food_midnight.png}
+	\end{figure}
+
+	\tiny Source: Widener et al (2017) How do changes in the daily food and transportation environments affect grocery store accessibility? \url{https://doi.org/10.1016/j.apgeog.2017.03.018}
+	
+\end{frame}
+
+
+
+\begin{frame}
+	
+	\textbf{Measuring accessibility} - minimum travel time to reach X
+	
+	\vspace{4mm}
+	
+	\[A_i = \min (t_{i,j})
+	\]
+	
+	\vspace{1mm}
+		
+	$A_i$ = accessibility measure for location $i$
+	
+	\vspace{1mm}
+	
+	$i$ = locations in space (e.g. grid cells, census polygons)
+	
+	\vspace{1mm}
+	
+	$j$ = location of activities (e.g. grocery store)
+	
+	\vspace{1mm}
+	
+	$t_{i,j}$ = travel cost from $i$ to $j$ (usually by computing an OD matrix)
+	
+\end{frame}
+
+
+
+	
+
+\begin{frame}
+	
+	\textbf{Measuring accessibility} - how many Y can you reach in Z minutes
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.86\linewidth]{images/tor_access.png}
+	\end{figure}
+
+	\tiny\url{https://en.wikipedia.org/wiki/Accessibility_(transport)}
+	
+\end{frame}
+
+
+
+
+
+
+\begin{frame}
+	
+	\textbf{Measuring accessibility} - how many Y can you reach in Z minutes
+	
+	\vspace{1mm}
+	
+	\[A_i = \sum_j  f(t_{i,j}) Y_j\]
+	
+	
+	\[
+	f(t_{i,j}) = \begin{cases}
+	1  & t_{i,j} \leq \theta \\
+	0 & t_{i,j} > \theta
+	\end{cases}\]
+	
+	
+	\vspace{1mm}
+	
+	$A_i$ = accessibility measure for location $i$
+	
+	\vspace{1mm}
+	
+	$i$ = locations in space (e.g. grid cells, census polygons)
+	
+	\vspace{1mm}
+	
+	$j$ = location of activities (e.g. zones with employment counts)
+	
+	\vspace{1mm}
+	
+	$Y_j$ = number of opportunities at location $j$ (e.g. number of jobs)
+	
+	\vspace{1mm}
+	
+	$t_{i,j}$ = travel cost from $i$ to $j$ (usually by computing an OD matrix)
+	
+	\vspace{1mm}
+	
+	$f(t_{i,j})$ = \textit{impedance} function
+	
+	\vspace{1mm}
+	
+	$\theta$ = travel cost threshold (e.g. 45 minutes)
+	
+	
+\end{frame}
+
+
+
+\begin{frame}
+	
+	\textbf{Measuring accessibility} - how many Y can you reach in Z minutes
+	
+	\vspace{3mm}
+	
+	Other common \textit{impedance} functions (to try to weight nearby destinations more than those further away)
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.76\linewidth]{images/gravity.pdf}
+	\end{figure}
+
+	
+	
+\end{frame}
+
+
+
+
+\begin{frame}
+	
+	\textbf{Accessibility \& Travel Behaviour}
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.56\linewidth]{images/big_links.png}
+	\end{figure}
+	
+	
+	Accessibility is correlated with ..
+	\begin{itemize}
+		\item Travel times
+		\item Travel distances (e.g. Vehicle Kilometres Travelled)
+		\item Mode share
+		\item Activity participation rates
+		\item Unemployment rates
+	\end{itemize}
+	
+\end{frame}
+
+
+
+\begin{frame}
+	
+	\textbf{Walkability}
+	
+	
+	
+\end{frame}
+
+
+
+\begin{frame}
+	
+	\textbf{15-minute cities}
+	
+	
+	
+\end{frame}
+
+
+
+
+\begin{frame}
+	
+	Over time historically - re commuting
+	
+\end{frame}
+
+
+
+\begin{frame}
+	
+	Over time - Ontario Line - planning example
+	
+\end{frame}
+
+
+
 
 \end{document}
