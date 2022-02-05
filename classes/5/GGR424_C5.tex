@@ -92,11 +92,35 @@ commentstyle=color{comments}emph}
 		\item The spatial patterns of transportation networks 
 		\item Usually \textbf{Lines} (and nodes/intersections)
 	\end{itemize}
+
+	\vspace{2mm}
+
+	\textbf{Travel Data} (more on this next week)
+	
+	\begin{itemize}
+		
+		\item Travel Surveys (usually tables, linked to locations)
+		\item GPS/Sensor Mobility Data (usually large $N$ point data)
+
+	\end{itemize}
 		
 \end{frame}
 
 
 
+
+
+\begin{frame}
+	
+	\textbf{Land Use Data}
+	
+	\begin{itemize}
+		\item What is located where
+		\item Usually \textbf{Points} or \textbf{Polygons}
+	\end{itemize}
+	
+	
+\end{frame}
 
 
 
@@ -109,6 +133,10 @@ commentstyle=color{comments}emph}
 	
 	\begin{columns}
 		\begin{column}{0.5\textwidth}
+			
+			\textbf{Network Data:}
+			
+			\vspace{6mm}
 			
 			\textbf{Network} - an interconnected group or system \\
 			\vspace{3mm}
@@ -186,8 +214,14 @@ commentstyle=color{comments}emph}
 
 
 
+ 
+
 
 \begin{frame}
+	
+	\small Can you walk across all of the seven bridges in K\"onigsberg, without ever repeating a single bridge in the course of one's walk? (Leonhard Euler, 1736)
+	
+	\vspace{2mm}
 	
 	\small Representing K\"onigsberg as a graph
 	
@@ -234,10 +268,7 @@ commentstyle=color{comments}emph}
 	
 	\begin{columns}
 		\begin{column}{0.5\textwidth}
-			GIS applications of network analysis usually pertain to transportation networks.\\
-			\vspace{4mm}
-			
-			Analyzing distances and travel times over \textit{network} space. \\
+			In Transportation Geography \& Planning, network analysis is used for measuring distances and travel times over \textit{network} space. \\
 			\vspace{4mm}
 			
 			\tiny Source: \url{https://www.openstreetmap.org}
@@ -251,8 +282,6 @@ commentstyle=color{comments}emph}
 			
 		\end{column}
 	\end{columns}
-	
-	
 	
 	
 \end{frame}
@@ -319,41 +348,39 @@ commentstyle=color{comments}emph}
 
 
 
+
+\begin{frame}
+	
+	\textbf{Shortest Path Analysis}
+	
+	\begin{itemize}
+		\item Finding the "shortest" path between A and B
+		\item "shortest" can be in distance, time, other costs, or combination of costs
+		\item Several different algorithms (e.g. Dijkstra)
+		\item Widely used in mapping applications (Google Maps, Uber, etc.)
+	\end{itemize}
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.5\linewidth]{images/shortest_path}
+	\end{figure}
+
+	\tiny\url{https://en.wikipedia.org/wiki/Dijkstras_algorithm}
+	
+	\tiny\url{https://en.wikipedia.org/wiki/Shortest_path_problem}	
+
+\end{frame}
+
+
+
+
 \begin{frame}
 
 	\begin{figure}
 		\centering
 		\includegraphics[width=0.95 \linewidth]{images/orlando}
 	\end{figure}
-	\tiny Source: Google Maps (2019)
-\end{frame}
-
-
-
-
-\begin{frame}
-
-	\textbf{Isochrones} (iso = equal, chrone = time) - A buffer based on \textit{network} distances or travel times
-	
-	
-	\begin{figure}
-		\centering
-		\includegraphics[width=0.8\linewidth]{images/STC_buffers}
-	\end{figure}
-
-	
-\end{frame}
-
-
-
-\begin{frame}
-	
-	
-	\begin{figure}
-		\centering
-		\includegraphics[width=0.8\linewidth]{images/Isochronic_Galton_1881}
-	\end{figure}
-	\tiny	Source:  Galton,   Francis.   1881.   "On   the   Construction   of   Isochronic   Passage-Charts." Proceedings  of  the  Royal  Geographical  Society  and Monthly Record of Geography 3: 657-658
+	\tiny \url{https://www.google.ca/maps/dir/28.5327099,-81.1608841/28.5326847,-81.1618508/@28.5363151,-81.1840563,6816m/data=!3m1!1e3!4m3!4m2!3e0!5i1}
 \end{frame}
 
 
@@ -361,12 +388,15 @@ commentstyle=color{comments}emph}
 	
 	\begin{figure}
 		\centering
-		\includegraphics[width=1\linewidth]{images/bike_vs_transit}
+		\includegraphics[width=0.95 \linewidth]{images/stupid_route_orlando}
 	\end{figure}
-	
-	\tiny Source: Allen, J. - \textit{Using network segments in the visualization of urban isochrones} -  Cartographica - \url{http://jamaps.github.io/docs/allen_2018_isochrones.pdf}
-	
+	\tiny \url{https://www.google.ca/maps/dir/28.5327099,-81.1608841/28.5326847,-81.1618508/@28.5363151,-81.1840563,6816m/data=!3m1!1e3!4m3!4m2!3e0!5i1}
 \end{frame}
+
+
+
+
+
 
 
 
@@ -426,6 +456,47 @@ commentstyle=color{comments}emph}
 	
 	\tiny Source: Randy Olson (2015)  \url{http://www.randalolson.com/2015/03/08/computing-the-optimal-road-trip-across-the-u-s/}
 \end{frame}	
+
+
+\begin{frame}
+	
+	\textbf{Isochrones} (iso = equal, chrone = time) - A buffer based on \textit{network} distances or travel times
+	
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.8\linewidth]{images/STC_buffers}
+	\end{figure}
+	
+	
+\end{frame}
+
+
+
+\begin{frame}
+	
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.8\linewidth]{images/Isochronic_Galton_1881}
+	\end{figure}
+	\tiny	Source:  Galton,   Francis.   1881.   "On   the   Construction   of   Isochronic   Passage-Charts." Proceedings  of  the  Royal  Geographical  Society  and Monthly Record of Geography 3: 657-658
+\end{frame}
+
+
+
+
+\begin{frame}
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=1\linewidth]{images/bike_vs_transit}
+	\end{figure}
+	
+	\tiny Source: Allen, J. - \textit{Using network segments in the visualization of urban isochrones} -  Cartographica - \url{http://jamaps.github.io/docs/allen_2018_isochrones.pdf}
+	
+\end{frame}
+
 
 
 
