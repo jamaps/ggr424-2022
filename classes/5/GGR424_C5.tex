@@ -100,7 +100,7 @@ commentstyle=color{comments}emph}
 	\begin{itemize}
 		
 		\item Travel Surveys (usually tables, linked to locations)
-		\item GPS/Sensor Mobility Data (usually large $N$ point data)
+		\item GPS/Sensor Mobility Data (usually big $N$ point data)
 
 	\end{itemize}
 		
@@ -117,8 +117,48 @@ commentstyle=color{comments}emph}
 	\begin{itemize}
 		\item What is located where
 		\item Usually \textbf{Points} or \textbf{Polygons}
+		\item Many data sources, e.g. OpenStretMap
 	\end{itemize}
+
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.9\linewidth]{images/cafe_osm_tor.png}
+	\end{figure}
 	
+	
+\end{frame}
+
+
+
+\begin{frame}
+	
+	\textbf{Land Use Data} - e.g. polygon data
+
+	yellow = residential, purple = retail/commercial, blue = industrial, etc. 
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.9\linewidth]{images/land-use-scarboro.png}
+	\end{figure}
+	
+\end{frame}
+
+
+
+\begin{frame}
+	
+	\textbf{Land Use Data} \\
+	
+	e.g. polygon data - census data, who lives and works where \\
+	
+	e.g. point data - libraries in Toronto
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.8\linewidth]{images/tor_libraries.png}
+	\end{figure}
+	
+	\tiny\url{https://en.wikipedia.org/wiki/Toronto_Public_Library}
 	
 \end{frame}
 
@@ -268,7 +308,11 @@ commentstyle=color{comments}emph}
 	
 	\begin{columns}
 		\begin{column}{0.5\textwidth}
-			In Transportation Geography \& Planning, network analysis is used for measuring distances and travel times over \textit{network} space. \\
+			In transportation geography and planning, network data are used for measuring distances and travel times over \textit{network} space.
+			\vspace{2mm}
+			
+			These distances/times can be used for a range of analyses
+			
 			\vspace{4mm}
 			
 			\tiny Source: \url{https://www.openstreetmap.org}
@@ -277,7 +321,7 @@ commentstyle=color{comments}emph}
 			
 			\begin{figure}
 				\centering
-				\includegraphics[width=1\linewidth]{images/utsc_roads_network}
+				\includegraphics[width=1\linewidth]{images/network_tor_eg}
 			\end{figure}
 			
 		\end{column}
@@ -286,6 +330,34 @@ commentstyle=color{comments}emph}
 	
 \end{frame}
 
+
+
+
+\begin{frame}
+	
+	\textbf{Transportation network data sources:}
+	
+	\vspace{2mm}
+	
+	Driving
+	\begin{itemize}
+		\item OpenStreetMap (free and detailed, depending on crowdsourced activity)
+		\item Government sources (e.g. City of Toronto Centreline, Federal Road Network Files)
+		\item Proprietary Networks (e.g. HERE, DMTI, Google Maps, etc.). Often used if needing travel times with congestion
+	\end{itemize}
+
+	Walking \& Cycling
+	\begin{itemize}
+		\item OpenStreetMap (free and detailed, depending on crowdsourced activity)
+		\item Various municipal gov't data sources
+	\end{itemize}
+
+	Transit 
+	\begin{itemize}
+		\item GTFS (General Transit Feed Specification)
+	\end{itemize}
+	
+\end{frame}
 
 
 
@@ -323,7 +395,6 @@ commentstyle=color{comments}emph}
 
 
 \begin{frame}
-
 	
 	\begin{columns}
 		\begin{column}{0.5\textwidth}
@@ -357,7 +428,7 @@ commentstyle=color{comments}emph}
 		\item Finding the "shortest" path between A and B
 		\item "shortest" can be in distance, time, other costs, or combination of costs
 		\item Several different algorithms (e.g. Dijkstra)
-		\item Widely used in mapping applications (Google Maps, Uber, etc.)
+		
 	\end{itemize}
 	
 	\begin{figure}
@@ -411,6 +482,23 @@ commentstyle=color{comments}emph}
 	\end{itemize}
 \end{frame}
 
+
+
+\begin{frame}
+	
+	e.g. in Ottawa, is UofO or Carleton closer to where you live?
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.79\linewidth]{images/ottawa_2c.png}
+	\end{figure}
+	\tiny \url{}
+\end{frame}
+
+
+
+
+
 \begin{frame}
 
 	
@@ -424,15 +512,8 @@ commentstyle=color{comments}emph}
 \end{frame}
 
 
-\begin{frame}
-	
-	\begin{figure}
-		\centering
-		\includegraphics[width=0.9\linewidth]{images/tor_libraries}
-	\end{figure}
-	
-	\tiny Source: \url{https://commons.wikimedia.org/wiki/File:Toronto_Public_Libraries_and_Population_Density.png}
-\end{frame}	
+
+
 
 \begin{frame}
 
