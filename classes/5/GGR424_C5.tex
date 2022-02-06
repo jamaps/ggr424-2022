@@ -56,14 +56,17 @@ commentstyle=color{comments}emph}
 
 
 \begin{frame}
+
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.76\linewidth]{images/big_links.png}
+	\end{figure}
 	
-	\textbf{Land Use}
-	
-	\textbf{Urban Form}
-	
-	\textbf{Built Environment}
-	
-	\textbf{Urban Spatial Structure}
+	\textbf{(Urban) Spatial Structure}
+	\begin{itemize}
+		\item Land Use
+		\item Transportation Networks	
+	\end{itemize}
 	
 \end{frame}
 
@@ -71,7 +74,14 @@ commentstyle=color{comments}emph}
 
 
 
+
+
+
 \begin{frame}
+	
+	\textbf{Transportation Data \& GIS}
+	
+	\vspace{2mm}
 	
 	In transportation geography and planning, we are usually working with \textbf{vector} data (rather than raster data)
 	
@@ -95,7 +105,7 @@ commentstyle=color{comments}emph}
 
 	\vspace{2mm}
 
-	\textbf{Travel Data} (more on this next week)
+	\textbf{Travel Behaviour Data} (more on this next week)
 	
 	\begin{itemize}
 		
@@ -360,6 +370,38 @@ commentstyle=color{comments}emph}
 \end{frame}
 
 
+
+
+\begin{frame}
+	
+	\textbf{Transportation network analysis tools:}
+	
+	\vspace{2mm}
+	
+	Walking, biking, driving (single mode-specific network)
+	\begin{itemize}
+		\item QGIS (free, but not too many options)
+		\item ArcGIS network analysis (paid, good tools, but really slow)
+		\item PGRouting (extension to PostGIS, need to know SQL)
+		\item OSRM (very customizable and quite fast, bigger learning curve though)
+		\item OSMNX (Python package using OSM data)
+	\end{itemize}
+	
+	Public Transit (combine walking network with GTFS data)
+	\begin{itemize}
+		\item OpenTripPlanner
+		\item R5
+		\item Add GTFS to ArcGIS Network Analyst
+	\end{itemize}
+
+	Online APIs
+	\begin{itemize}
+		\item Google Maps, Apple Maps, etc.
+		\item No need to build network, but usually quite expensive for large analyses
+	\end{itemize}
+	
+	
+\end{frame}
 
 
 
@@ -653,7 +695,7 @@ commentstyle=color{comments}emph}
 	
 	\vspace{4mm}
 	
-	\[A_i = \min (t_{i,j})
+	\[A_i = \min_j (t_{i,j})
 	\]
 	
 	\vspace{1mm}
@@ -790,11 +832,10 @@ commentstyle=color{comments}emph}
 
 \begin{frame}
 	
-	\textbf{Walkability}
-	
-	
+	Over time historically - re commuting
 	
 \end{frame}
+
 
 
 
@@ -802,6 +843,40 @@ commentstyle=color{comments}emph}
 	
 	\textbf{15-minute cities}
 	
+	\begin{itemize}
+		\item Urban planning/design strategy for most daily necessities can be reached within 15 minutes walking or cycling
+		\item i.e. a measure of accessibility by active travel modes
+	\end{itemize}
+	
+	
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.56\linewidth]{images/utrecht1.jpg}
+	\end{figure}
+	
+\end{frame}
+
+
+
+
+
+\begin{frame}
+	
+	\textbf{Walkability}
+	
+	\begin{itemize}
+		\item How friendly a neighbourhood is for walking
+		\item Can be thought of the quality of pedestrian accessibility
+		\item e.g. Statistics Canada has proximity measures database
+	\end{itemize}
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.76\linewidth]{images/pmd.png}
+	\end{figure}
+	
+	\tiny\url{https://www150.statcan.gc.ca/n1/pub/17-26-0002/172600022020001-eng.htm}
 	
 	
 \end{frame}
@@ -811,15 +886,54 @@ commentstyle=color{comments}emph}
 
 \begin{frame}
 	
-	Over time historically - re commuting
+	
+
+	\begin{columns}
+		\begin{column}{0.5\textwidth}
+			
+			\textbf{Accessibility \& Housing}
+			
+			\small
+			
+			\begin{itemize}
+				\item Increased demand and costs of housing in more accessible neighbourhoods (all else being equal)
+				\item Can be a catalyst for further Transit Oriented Development
+				\item But can also be unaffordable low-income residents (e.g. concerns over "Transit Oriented Displacement")
+			\end{itemize}
+			
+		\end{column}
+		
+		\begin{column}{0.5\textwidth}
+			
+			\begin{figure}
+				\centering
+				\includegraphics[width=0.8\linewidth]{images/access_values.png}
+			\end{figure}
+		
+		\tiny e.g. see work by Chris Higgins \url{https://higgicd.github.io/}
+			
+		\end{column}
+		
+	\end{columns}
 	
 \end{frame}
 
 
 
+
 \begin{frame}
 	
-	Over time - Ontario Line - planning example
+	Transport planning is increasingly using accessibility to evaluate projects - e.g. this map and analysis was part of the initial business case for the Ontario Line
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.7\linewidth]{images/OL_access_improvements.png}
+	\end{figure}
+	
+	\tiny\url{https://metrolinx.files.wordpress.com/2019/07/click-here-to-view-the-ontario-line-initial-business-case.pdf}
+	
+	
+
 	
 \end{frame}
 

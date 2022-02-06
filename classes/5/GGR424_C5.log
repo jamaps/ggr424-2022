@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  5 FEB 2022 13:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  6 FEB 2022 10:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -865,312 +865,348 @@ Dictionary: translator-theorem-dictionary, Language: English
 \c@lstlisting=\count327
  (./GGR424_C5.nav) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
-
-]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<images/big_links.png, id=21, 980.66376pt x 583.17876pt>
+File: images/big_links.png Graphic file (type png)
+<use images/big_links.png>
+Package pdftex.def Info: images/big_links.png  used on input line 71.
+(pdftex.def)             Requested size: 282.14345pt x 167.78271pt.
 LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
-107.
+71.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-107.
+71.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-107.
+71.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-107.
+71.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 107.
+(Font)              scaled to size 11.40997pt on input line 71.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 107.
+(Font)              scaled to size 8.33606pt on input line 71.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 107.
+(Font)              scaled to size 6.25204pt on input line 71.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 107.
+(Font)              scaled to size 11.40997pt on input line 71.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 107.
+(Font)              scaled to size 8.33606pt on input line 71.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 107.
+(Font)              scaled to size 6.25204pt on input line 71.
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-107.
+71.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-) [3
+) [2
+
+ <./images/big_links.png>] [3
 
 ]
-<images/cafe_osm_tor.png, id=33, 1923.185pt x 1043.9pt>
+<images/cafe_osm_tor.png, id=36, 1923.185pt x 1043.9pt>
 File: images/cafe_osm_tor.png Graphic file (type png)
 <use images/cafe_osm_tor.png>
-Package pdftex.def Info: images/cafe_osm_tor.png  used on input line 129.
+Package pdftex.def Info: images/cafe_osm_tor.png  used on input line 139.
 (pdftex.def)             Requested size: 334.1174pt x 181.34723pt.
  [4
 
  <./images/cafe_osm_tor.png>]
-<images/land-use-scarboro.png, id=41, 1925.1925pt x 973.6375pt>
+<images/land-use-scarboro.png, id=43, 1925.1925pt x 973.6375pt>
 File: images/land-use-scarboro.png Graphic file (type png)
 <use images/land-use-scarboro.png>
-Package pdftex.def Info: images/land-use-scarboro.png  used on input line 144.
+Package pdftex.def Info: images/land-use-scarboro.png  used on input line 154.
 (pdftex.def)             Requested size: 334.1174pt x 168.96289pt.
  [5
 
  <./images/land-use-scarboro.png>]
-<images/tor_libraries.png, id=48, 2559.5625pt x 1656.1875pt>
+<images/tor_libraries.png, id=50, 2559.5625pt x 1656.1875pt>
 File: images/tor_libraries.png Graphic file (type png)
 <use images/tor_libraries.png>
-Package pdftex.def Info: images/tor_libraries.png  used on input line 163.
+Package pdftex.def Info: images/tor_libraries.png  used on input line 173.
 (pdftex.def)             Requested size: 296.99638pt x 192.16338pt.
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-63.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+73.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 163.
+(Font)              scaled to size 5.21004pt on input line 173.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 163.
+(Font)              scaled to size 5.21004pt on input line 173.
 
-Overfull \vbox (1.32045pt too high) detected at line 163
+Overfull \vbox (1.32045pt too high) detected at line 173
  []
 
 [6
 
  <./images/tor_libraries.png (PNG copy)>]
-<images/internet.jpg, id=56, 1027.84pt x 1027.84pt>
+<images/internet.jpg, id=58, 1027.84pt x 1027.84pt>
 File: images/internet.jpg Graphic file (type jpg)
 <use images/internet.jpg>
-Package pdftex.def Info: images/internet.jpg  used on input line 204.
+Package pdftex.def Info: images/internet.jpg  used on input line 214.
 (pdftex.def)             Requested size: 167.0587pt x 167.04555pt.
  [7
 
  <./images/internet.jpg>]
-<images/simple_graph.png, id=65, 709.65125pt x 451.6875pt>
+<images/simple_graph.png, id=67, 709.65125pt x 451.6875pt>
 File: images/simple_graph.png Graphic file (type png)
 <use images/simple_graph.png>
-Package pdftex.def Info: images/simple_graph.png  used on input line 236.
+Package pdftex.def Info: images/simple_graph.png  used on input line 246.
 (pdftex.def)             Requested size: 133.64491pt x 85.06337pt.
 
 [8
 
  <./images/simple_graph.png>]
-<images/konigsberg_1.png, id=75, 2007.5pt x 1006.76125pt>
+<images/konigsberg_1.png, id=77, 2007.5pt x 1006.76125pt>
 File: images/konigsberg_1.png Graphic file (type png)
 <use images/konigsberg_1.png>
-Package pdftex.def Info: images/konigsberg_1.png  used on input line 252.
+Package pdftex.def Info: images/konigsberg_1.png  used on input line 262.
 (pdftex.def)             Requested size: 334.1174pt x 167.55246pt.
  [9
 
  <./images/konigsberg_1.png (PNG copy)>]
-<images/konigsberg_2.jpeg, id=82, 1579.9025pt x 877.2775pt>
+<images/konigsberg_2.jpeg, id=84, 1579.9025pt x 877.2775pt>
 File: images/konigsberg_2.jpeg Graphic file (type jpg)
 <use images/konigsberg_2.jpeg>
-Package pdftex.def Info: images/konigsberg_2.jpeg  used on input line 289.
+Package pdftex.def Info: images/konigsberg_2.jpeg  used on input line 299.
 (pdftex.def)             Requested size: 204.18536pt x 113.36739pt.
 
-Overfull \hbox (18.56332pt too wide) in paragraph at lines 289--289
+Overfull \hbox (18.56332pt too wide) in paragraph at lines 299--299
  [] 
  []
 
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 289.
+(Font)              scaled to size 10.42007pt on input line 299.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 289.
+(Font)              scaled to size 7.91925pt on input line 299.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 289.
+(Font)              scaled to size 10.42007pt on input line 299.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 289.
-<images/konigsberg_3.jpeg, id=83, 1493.58pt x 959.585pt>
+(Font)              scaled to size 7.91925pt on input line 299.
+<images/konigsberg_3.jpeg, id=85, 1493.58pt x 959.585pt>
 File: images/konigsberg_3.jpeg Graphic file (type jpg)
 <use images/konigsberg_3.jpeg>
-Package pdftex.def Info: images/konigsberg_3.jpeg  used on input line 289.
+Package pdftex.def Info: images/konigsberg_3.jpeg  used on input line 299.
 (pdftex.def)             Requested size: 185.62204pt x 119.24501pt.
 [10
 
  <./images/konigsberg_2.jpeg> <./images/konigsberg_3.jpeg>]
-<images/flight_path_panam_1948.jpg, id=90, 1007.9256pt x 595.023pt>
+<images/flight_path_panam_1948.jpg, id=92, 1007.9256pt x 595.023pt>
 File: images/flight_path_panam_1948.jpg Graphic file (type jpg)
 <use images/flight_path_panam_1948.jpg>
 Package pdftex.def Info: images/flight_path_panam_1948.jpg  used on input line 
-301.
+311.
 (pdftex.def)             Requested size: 371.24408pt x 219.16542pt.
  [11
 
  <./images/flight_path_panam_1948.jpg>]
-<images/network_tor_eg.png, id=97, 910.40125pt x 796.9775pt>
+<images/network_tor_eg.png, id=99, 910.40125pt x 796.9775pt>
 File: images/network_tor_eg.png Graphic file (type png)
 <use images/network_tor_eg.png>
-Package pdftex.def Info: images/network_tor_eg.png  used on input line 331.
+Package pdftex.def Info: images/network_tor_eg.png  used on input line 341.
 (pdftex.def)             Requested size: 185.62204pt x 162.4937pt.
  [12
 
  <./images/network_tor_eg.png>] [13
 
+] [14
+
 ]
-<images/route_utsc_walk.png, id=111, 1122.1925pt x 863.225pt>
+<images/route_utsc_walk.png, id=118, 1122.1925pt x 863.225pt>
 File: images/route_utsc_walk.png Graphic file (type png)
 <use images/route_utsc_walk.png>
-Package pdftex.def Info: images/route_utsc_walk.png  used on input line 391.
+Package pdftex.def Info: images/route_utsc_walk.png  used on input line 433.
 (pdftex.def)             Requested size: 185.62204pt x 142.78162pt.
- [14
+
+[15
 
  <./images/route_utsc_walk.png>]
-<images/route_utsc_bike.png, id=118, 1113.15875pt x 884.30376pt>
+<images/route_utsc_bike.png, id=125, 1113.15875pt x 884.30376pt>
 File: images/route_utsc_bike.png Graphic file (type png)
 <use images/route_utsc_bike.png>
-Package pdftex.def Info: images/route_utsc_bike.png  used on input line 418.
+Package pdftex.def Info: images/route_utsc_bike.png  used on input line 460.
 (pdftex.def)             Requested size: 185.62204pt x 147.45555pt.
-<images/route_utsc_car.png, id=119, 1109.14375pt x 901.3675pt>
+<images/route_utsc_car.png, id=126, 1109.14375pt x 901.3675pt>
 File: images/route_utsc_car.png Graphic file (type png)
 <use images/route_utsc_car.png>
-Package pdftex.def Info: images/route_utsc_car.png  used on input line 418.
+Package pdftex.def Info: images/route_utsc_car.png  used on input line 460.
 (pdftex.def)             Requested size: 185.62204pt x 150.8373pt.
- [15
-
- <./images/route_utsc_bike.png> <./images/route_utsc_car.png>]
-<images/shortest_path.png, id=127, 391.4625pt x 214.8025pt>
-File: images/shortest_path.png Graphic file (type png)
-<use images/shortest_path.png>
-Package pdftex.def Info: images/shortest_path.png  used on input line 443.
-(pdftex.def)             Requested size: 185.62204pt x 101.85526pt.
  [16
 
- <./images/shortest_path.png>]
-<images/orlando.png, id=136, 1470.49374pt x 717.68124pt>
-File: images/orlando.png Graphic file (type png)
-<use images/orlando.png>
-Package pdftex.def Info: images/orlando.png  used on input line 455.
-(pdftex.def)             Requested size: 352.68074pt x 172.12656pt.
+ <./images/route_utsc_bike.png> <./images/route_utsc_car.png>]
+<images/shortest_path.png, id=134, 391.4625pt x 214.8025pt>
+File: images/shortest_path.png Graphic file (type png)
+<use images/shortest_path.png>
+Package pdftex.def Info: images/shortest_path.png  used on input line 485.
+(pdftex.def)             Requested size: 185.62204pt x 101.85526pt.
  [17
 
+ <./images/shortest_path.png>]
+<images/orlando.png, id=143, 1470.49374pt x 717.68124pt>
+File: images/orlando.png Graphic file (type png)
+<use images/orlando.png>
+Package pdftex.def Info: images/orlando.png  used on input line 497.
+(pdftex.def)             Requested size: 352.68074pt x 172.12656pt.
+ [18
+
  <./images/orlando.png>]
-<images/stupid_route_orlando.png, id=145, 1518.67375pt x 880.28876pt>
+<images/stupid_route_orlando.png, id=152, 1518.67375pt x 880.28876pt>
 File: images/stupid_route_orlando.png Graphic file (type png)
 <use images/stupid_route_orlando.png>
-Package pdftex.def Info: images/stupid_route_orlando.png  used on input line 46
-5.
+Package pdftex.def Info: images/stupid_route_orlando.png  used on input line 50
+7.
 (pdftex.def)             Requested size: 352.68074pt x 204.42323pt.
+ [19
 
-[18
-
- <./images/stupid_route_orlando.png>] [19
+ <./images/stupid_route_orlando.png>] [20
 
 ]
-<images/ottawa_2c.png, id=160, 2258.4375pt x 1693.82813pt>
+<images/ottawa_2c.png, id=167, 2258.4375pt x 1693.82813pt>
 File: images/ottawa_2c.png Graphic file (type png)
 <use images/ottawa_2c.png>
-Package pdftex.def Info: images/ottawa_2c.png  used on input line 496.
+Package pdftex.def Info: images/ottawa_2c.png  used on input line 538.
 (pdftex.def)             Requested size: 293.28032pt x 219.94693pt.
 
-Overfull \vbox (0.57098pt too high) detected at line 496
+Overfull \vbox (0.57098pt too high) detected at line 538
  []
 
-[20
+[21
 
- <./images/ottawa_2c.png>] [21
+ <./images/ottawa_2c.png>] [22
 
-] [22
+] [23
 
 ]
-<images/travel_usa.png, id=179, 1088.065pt x 586.19pt>
+<images/travel_usa.png, id=186, 1088.065pt x 586.19pt>
 File: images/travel_usa.png Graphic file (type png)
 <use images/travel_usa.png>
-Package pdftex.def Info: images/travel_usa.png  used on input line 539.
+Package pdftex.def Info: images/travel_usa.png  used on input line 581.
 (pdftex.def)             Requested size: 334.1174pt x 180.0086pt.
- [23
-
- <./images/travel_usa.png>]
-<images/STC_buffers.png, id=187, 469.755pt x 289.08pt>
-File: images/STC_buffers.png Graphic file (type png)
-<use images/STC_buffers.png>
-Package pdftex.def Info: images/STC_buffers.png  used on input line 553.
-(pdftex.def)             Requested size: 296.99638pt x 182.76537pt.
  [24
 
+ <./images/travel_usa.png>]
+<images/STC_buffers.png, id=194, 469.755pt x 289.08pt>
+File: images/STC_buffers.png Graphic file (type png)
+<use images/STC_buffers.png>
+Package pdftex.def Info: images/STC_buffers.png  used on input line 595.
+(pdftex.def)             Requested size: 296.99638pt x 182.76537pt.
+ [25
+
  <./images/STC_buffers.png>]
-<images/Isochronic_Galton_1881.jpg, id=194, 1149.29375pt x 751.80875pt>
+<images/Isochronic_Galton_1881.jpg, id=202, 1149.29375pt x 751.80875pt>
 File: images/Isochronic_Galton_1881.jpg Graphic file (type jpg)
 <use images/Isochronic_Galton_1881.jpg>
 Package pdftex.def Info: images/Isochronic_Galton_1881.jpg  used on input line 
-565.
+607.
 (pdftex.def)             Requested size: 296.99638pt x 194.2726pt.
- [25
-
- <./images/Isochronic_Galton_1881.jpg>]
-<images/bike_vs_transit.png, id=201, 1409.265pt x 774.895pt>
-File: images/bike_vs_transit.png Graphic file (type png)
-<use images/bike_vs_transit.png>
-Package pdftex.def Info: images/bike_vs_transit.png  used on input line 579.
-(pdftex.def)             Requested size: 371.24408pt x 204.12833pt.
  [26
 
- <./images/bike_vs_transit.png>]
-<images/odmatrix.png, id=209, 883.3pt x 335.2525pt>
-File: images/odmatrix.png Graphic file (type png)
-<use images/odmatrix.png>
-Package pdftex.def Info: images/odmatrix.png  used on input line 597.
-(pdftex.def)             Requested size: 245.02245pt x 92.9953pt.
+ <./images/Isochronic_Galton_1881.jpg>]
+<images/bike_vs_transit.png, id=208, 1409.265pt x 774.895pt>
+File: images/bike_vs_transit.png Graphic file (type png)
+<use images/bike_vs_transit.png>
+Package pdftex.def Info: images/bike_vs_transit.png  used on input line 621.
+(pdftex.def)             Requested size: 371.24408pt x 204.12833pt.
  [27
 
- <./images/odmatrix.png>] [28
+ <./images/bike_vs_transit.png>]
+<images/odmatrix.png, id=216, 883.3pt x 335.2525pt>
+File: images/odmatrix.png Graphic file (type png)
+<use images/odmatrix.png>
+Package pdftex.def Info: images/odmatrix.png  used on input line 639.
+(pdftex.def)             Requested size: 245.02245pt x 92.9953pt.
+ [28
+
+ <./images/odmatrix.png>] [29
 
 ]
-<images/food_midnight.png, id=221, 954.56625pt x 560.0925pt>
+<images/food_midnight.png, id=228, 954.56625pt x 560.0925pt>
 File: images/food_midnight.png Graphic file (type png)
 <use images/food_midnight.png>
-Package pdftex.def Info: images/food_midnight.png  used on input line 646.
+Package pdftex.def Info: images/food_midnight.png  used on input line 688.
 (pdftex.def)             Requested size: 319.27013pt x 187.32661pt.
- [29
+ [30
 
- <./images/food_midnight.png>] [30
+ <./images/food_midnight.png>] [31
 
 ]
-<images/tor_access.png, id=234, 1228.59pt x 794.97pt>
+<images/tor_access.png, id=242, 1228.59pt x 794.97pt>
 File: images/tor_access.png Graphic file (type png)
 <use images/tor_access.png>
-Package pdftex.def Info: images/tor_access.png  used on input line 692.
+Package pdftex.def Info: images/tor_access.png  used on input line 734.
 (pdftex.def)             Requested size: 319.27013pt x 206.59029pt.
- [31
+ [32
 
- <./images/tor_access.png>] [32
+ <./images/tor_access.png>] [33
 
 ]
-<images/gravity.pdf, id=253, 433.62pt x 289.08pt>
+<images/gravity.pdf, id=260, 433.62pt x 289.08pt>
 File: images/gravity.pdf Graphic file (type pdf)
 <use images/gravity.pdf>
-Package pdftex.def Info: images/gravity.pdf  used on input line 763.
+Package pdftex.def Info: images/gravity.pdf  used on input line 805.
 (pdftex.def)             Requested size: 282.14345pt x 188.10268pt.
- [33
-
- <./images/gravity.pdf>]
-<images/big_links.png, id=481, 980.66376pt x 583.17876pt>
-File: images/big_links.png Graphic file (type png)
-<use images/big_links.png>
-Package pdftex.def Info: images/big_links.png  used on input line 787.
-(pdftex.def)             Requested size: 207.89577pt x 123.62796pt.
  [34
 
- <./images/big_links.png>] [35
+ <./images/gravity.pdf>]
+File: images/big_links.png Graphic file (type png)
+<use images/big_links.png>
+Package pdftex.def Info: images/big_links.png  used on input line 829.
+(pdftex.def)             Requested size: 207.89577pt x 123.62796pt.
+ [35
 
 ] [36
 
-] [37
-
-] [38
-
 ]
+<images/utrecht1.jpg, id=499, 1806.75pt x 1333.783pt>
+File: images/utrecht1.jpg Graphic file (type jpg)
+<use images/utrecht1.jpg>
+Package pdftex.def Info: images/utrecht1.jpg  used on input line 858.
+(pdftex.def)             Requested size: 207.89577pt x 153.4734pt.
+ [37
+
+ <./images/utrecht1.jpg>]
+<images/pmd.png, id=506, 1156.32pt x 667.49374pt>
+File: images/pmd.png Graphic file (type png)
+<use images/pmd.png>
+Package pdftex.def Info: images/pmd.png  used on input line 882.
+(pdftex.def)             Requested size: 282.14345pt x 162.86009pt.
+ [38
+
+ <./images/pmd.png>]
+<images/access_values.png, id=514, 692.5875pt x 919.435pt>
+File: images/access_values.png Graphic file (type png)
+<use images/access_values.png>
+Package pdftex.def Info: images/access_values.png  used on input line 919.
+(pdftex.def)             Requested size: 148.49818pt x 197.12752pt.
+ [39
+
+ <./images/access_values.png>]
+<images/OL_access_improvements.png, id=522, 1121.18875pt x 840.13875pt>
+File: images/OL_access_improvements.png Graphic file (type png)
+<use images/OL_access_improvements.png>
+Package pdftex.def Info: images/OL_access_improvements.png  used on input line 
+938.
+(pdftex.def)             Requested size: 259.86972pt x 194.72772pt.
+
+Overfull \vbox (1.02136pt too high) detected at line 938
+ []
+
+[40
+
+ <./images/OL_access_improvements.png>]
 \tf@nav=\write6
 \openout6 = `GGR424_C5.nav'.
 
@@ -1180,19 +1216,19 @@ Package pdftex.def Info: images/big_links.png  used on input line 787.
 \tf@snm=\write8
 \openout8 = `GGR424_C5.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 829.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 829.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 943.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 943.
  (./GGR424_C5.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 829.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 829.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 943.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 943.
 Package rerunfilecheck Info: File `GGR424_C5.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19656 strings out of 483183
- 363688 string characters out of 5966291
+ 19686 strings out of 483183
+ 364330 string characters out of 5966291
  779354 words of memory out of 5000000
- 34076 multiletter control sequences out of 15000+600000
+ 34098 multiletter control sequences out of 15000+600000
  582866 words of font info for 113 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  54i,11n,57p,776b,632s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1207,10 +1243,10 @@ athpazo/fplmri.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/s
 ymbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8
 a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on GGR424_C5.pdf (38 pages, 28152349 bytes).
+Output written on GGR424_C5.pdf (40 pages, 37371922 bytes).
 PDF statistics:
- 619 PDF objects out of 1000 (max. 8388607)
- 387 compressed objects within 4 object streams
- 78 named destinations out of 1000 (max. 500000)
- 173 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 641 PDF objects out of 1000 (max. 8388607)
+ 399 compressed objects within 4 object streams
+ 82 named destinations out of 1000 (max. 500000)
+ 193 words of extra memory for PDF output out of 10000 (max. 10000000)
 
