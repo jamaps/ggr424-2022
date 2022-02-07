@@ -55,14 +55,18 @@ commentstyle=color{comments}emph}
 
 
 
+
+
 \begin{frame}
+	
+	\textbf{Today}: How do we measure and analyze \textbf{\textit{(Urban) Spatial Structure}}?
 
 	\begin{figure}
 		\centering
-		\includegraphics[width=0.76\linewidth]{images/big_links.png}
+		\includegraphics[width=0.56\linewidth]{images/big_links.png}
 	\end{figure}
 	
-	\textbf{(Urban) Spatial Structure}
+	(Urban) Spatial Structure is a combination of
 	\begin{itemize}
 		\item Land Use
 		\item Transportation Networks	
@@ -79,7 +83,7 @@ commentstyle=color{comments}emph}
 
 \begin{frame}
 	
-	\textbf{Transportation Data \& GIS}
+	\textbf{Data \& GIS}
 	
 	\vspace{2mm}
 	
@@ -182,7 +186,7 @@ commentstyle=color{comments}emph}
 \begin{frame}
 	
 	\begin{columns}
-		\begin{column}{0.5\textwidth}
+		\begin{column}{0.6\textwidth}
 			
 			\textbf{Network Data:}
 			
@@ -198,15 +202,23 @@ commentstyle=color{comments}emph}
 				\item Biological network
 			\end{itemize} \vspace{3mm}
 			Often represented using \textbf{graphs}
+			
+			\vspace{2mm}
+			
+			\tiny e.g. \url{https://en.wikipedia.org/wiki/Physarum_polycephalum}
+			
+			\vspace{2mm}
+			
+			\tiny \url{https://www.wired.com/2010/01/slime-mold-grows-network-just-like-tokyo-rail-system/}
 		\end{column}
 		
-		\begin{column}{0.5\textwidth}
+		\begin{column}{0.4\textwidth}
 			\begin{figure}
 				\centering
-				\includegraphics[width=0.9\linewidth]{images/internet}
+				\includegraphics[width=1\linewidth]{images/slime_mold_2}
 				\label{fig:internet}
 			\end{figure}
-			\tiny Source: \url{https://en.wikipedia.org/wiki/Network_science}
+			
 		\end{column}
 		
 	\end{columns}
@@ -509,6 +521,28 @@ commentstyle=color{comments}emph}
 
 
 
+\begin{frame}
+	
+	
+	\textbf{Travelling Salesman}
+	
+	\begin{itemize}
+		\item 	Given a list of locations, and the (network) distances between each pair of locations, what is the shortest possible route that visits each location and returns to the origin point?
+		\item e.g. what is the optimal route a salesman can take to visit potential clients in a region 
+		\item other applications include planning delivery routes or road trips
+	\end{itemize}
+	
+\end{frame}
+
+\begin{frame}
+	\small The optimal road trip visiting 50 cities in the USA
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.9\linewidth]{images/travel_usa}
+	\end{figure}
+	
+	\tiny Source: Randy Olson (2015)  \url{http://www.randalolson.com/2015/03/08/computing-the-optimal-road-trip-across-the-u-s/}
+\end{frame}	
 
 
 
@@ -557,33 +591,11 @@ commentstyle=color{comments}emph}
 
 
 
-\begin{frame}
-
-	
-	\textbf{Travelling Salesman}
-	
-	\begin{itemize}
-		\item 	Given a list of locations, and the (network) distances between each pair of locations, what is the shortest possible route that visits each location and returns to the origin point?
-		\item e.g. what is the optimal route a salesman can take to visit potential clients in a region 
-		\item other applications include planning delivery routes or road trips
-	\end{itemize}
-	
-\end{frame}
-
-\begin{frame}
-	\small The optimal road trip visiting 50 cities in the USA
-	\begin{figure}
-		\centering
-		\includegraphics[width=0.9\linewidth]{images/travel_usa}
-	\end{figure}
-	
-	\tiny Source: Randy Olson (2015)  \url{http://www.randalolson.com/2015/03/08/computing-the-optimal-road-trip-across-the-u-s/}
-\end{frame}	
 
 
 \begin{frame}
 	
-	\textbf{Isochrones} (iso = equal, chrone = time) - A buffer based on \textit{network} distances or travel times
+	\textbf{Isochrones} (iso = equal, chrone = time) - A buffer based on \textit{network} distances or travel times (sometimes called "service areas")
 	
 	
 	\begin{figure}
@@ -832,7 +844,33 @@ commentstyle=color{comments}emph}
 
 \begin{frame}
 	
-	Over time historically - re commuting
+	e.g. changes in transit accessibility compared to changes in commute time
+	
+	
+	\begin{columns}
+		\begin{column}{0.5\textwidth}
+			
+			\begin{figure}
+				\centering
+				\includegraphics[width=0.97\linewidth]{images/delta_access.png}
+			\end{figure}
+			
+		\end{column}
+		
+		\begin{column}{0.5\textwidth}
+			
+			\begin{figure}
+				\centering
+				\includegraphics[width=0.97\linewidth]{images/delta_commute.png}
+			\end{figure}
+						
+		\end{column}
+		
+	\end{columns}
+
+	\vspace{3mm}
+
+	\tiny\url{https://osf.io/preprints/socarxiv/hkpfj/}
 	
 \end{frame}
 
@@ -847,8 +885,6 @@ commentstyle=color{comments}emph}
 		\item Urban planning/design strategy for most daily necessities can be reached within 15 minutes walking or cycling
 		\item i.e. a measure of accessibility by active travel modes
 	\end{itemize}
-	
-	
 	
 	\begin{figure}
 		\centering
@@ -867,7 +903,7 @@ commentstyle=color{comments}emph}
 	
 	\begin{itemize}
 		\item How friendly a neighbourhood is for walking
-		\item Can be thought of the quality of pedestrian accessibility
+		\item Can be thought of as the quality of pedestrian accessibility
 		\item e.g. Statistics Canada has proximity measures database
 	\end{itemize}
 	
@@ -932,11 +968,42 @@ commentstyle=color{comments}emph}
 	
 	\tiny\url{https://metrolinx.files.wordpress.com/2019/07/click-here-to-view-the-ontario-line-initial-business-case.pdf}
 	
-	
+\end{frame}
 
+
+
+
+\begin{frame}
+	
+	Mapping accessibility can be used to highlight under-served areas.
+	\vspace{2mm}
+	
+	Can also be used to compare between modes:
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=1\linewidth]{images/tor_car_transit_access.png}
+	\end{figure}
+
+	\tiny\url{https://sausy-lab.github.io/canada-transit-access/map.html}
+	
 	
 \end{frame}
 
+
+
+
+\begin{frame}
+	
+	Next week (Feb 14)
+	
+	\begin{itemize}
+		\item Travel behaviour data (e.g. travel surveys and GPS data)
+		\item Maps for navigation / wayfinding
+		\item Demoing a few things in GIS / chat about the next assignment
+	\end{itemize}
+	
+\end{frame}
 
 
 
