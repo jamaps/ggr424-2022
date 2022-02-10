@@ -88,13 +88,15 @@
 	
 	\texttt{data.zip} contains all the data required to complete this assignment.
 	
-	All maps should be 6.5 inches wide (and thus fit nicely on an 8.5x11 page with 1 inch margins). Please present all maps in a projection that preserves local directions and shapes (e.g. Web Mercator, UTM Zone 17N, etc.). Rotate all maps of Toronto so that Steele Ave is parallel to the top border of the map (about 17 degrees).
+	All maps should be 6.5 inches wide (and thus fit nicely on an 8.5x11 page with 1 inch margins). Please present all maps in a projection that preserves local directions and shapes (e.g. Web Mercator, UTM Zone 17N, etc.). Rotate all maps of Toronto so that Steeles Ave is parallel to the top border of the map (about 17 degrees).
 	
-	Grading for the maps will be based on QQQ
+	Grading for the maps will be based both on showing the correct data as well as the overall design of the maps (i.e. do they clearly convey the data shown)
 	
-	Grading for the written responses will be based on both on QQQQQ as well as the response being written clearly and succinctly. QQQ
+			
+			
 	
-		
+	
+	
 	\subsection*{Part 1: Thinking About Accessibility} 
 	
 	\vspace{-2mm}
@@ -141,7 +143,7 @@
 	
 	Your task is to map and analyze how and where cycling infrastructure is related to cycling mode share in Toronto. 
 
-	For the infrastructure part, I have prepared data on Bikeshare stations and cycling routes (in the \textbf{cycling-infrastructure} sub folder). Data on commuting to work from the 2016 census is in \textbf{census-commuting-data-2016}.
+	For the infrastructure part, I have prepared data on Bikeshare stations and cycling routes. Data on commuting to work from the 2016 census is in the \textit{census-data-2016} folder.
 
 	\begin{enumerate}
 			
@@ -149,9 +151,9 @@
 		
 		\item Describe in a few sentences the patterns between the layers. Is there a strong correlation between cycling infrastructure and mode share? How does this vary in different parts of the city? (1.5)
 		
-		\item The cycling route data I provided is pretty limited. If you wanted to build a more comprehensive cycling network dataset that could be used for routing and measuring accessibility, what other routes and attributes (e.g. costs/weights) would you include?  Briefly describe at least three (1.5)
+		\item The cycling route data I provided is pretty limited and disconnected. If you wanted to build a more comprehensive cycling network dataset that could be used for network analysis and measuring accessibility, what other routes and attributes (e.g. costs/weights) would you include?  Briefly describe at least three (1.5)
 				
-		\item Briefly describe one limitation of the census data in examining cycling mode share (0.5)
+		\item Briefly describe one limitation of this census data in examining cycling mode share (0.5)
 		
 		\item Other than Bikeshare stations, find another \textbf{point} GIS dataset representing some aspect of the built environment that you think would impact cycling travel behaviour. You do not have to create a map, just briefly describe it and provide a link. (0.5)
 		
@@ -167,23 +169,21 @@
 	\vspace{-2mm}
 	\textbf{\textit{6 marks}}
 	
-	Let's look at pedestrian accessibility to public libraries. In the \textt{data.zip} folder, there is 
+	Your task is to map pedestrian accessibility to public libraries. 
+	
+	In the \texttt{data.zip} folder, there is a pedestrian network dataset pulled from OpenStreetMap. There is also a point file of the locations of public libraries.
 	
 	
 	\begin{enumerate}
-		\item Create two maps showing walking access isochrones to public libraries in Toronto. Have the maps show 3 bands of access (500m, 1000m, and 1500m). Overlay the first map with the dot density layer for population. Overlay the second map with the dot density layer for low-income residents. (4)
-		
-		\item Briefly describe the patterns on the maps. 
-	\end{enumerate}
-	
-	
-	
-	(4 marks)
-	
-	Briefly describe patterns, etc.
-	
-	(2 marks)
+		\item Create a map showing walking access isochrones to public libraries in Toronto. Have the map show 2 bands of access one at 750m and another for 1500m (these approximately correspond to a 10 minute and 20 minute walk). Also include on your map a layer representing population in the City of Toronto (see the census sub-folder for population data), as it will help highlighting under-served areas. (3)
 
+		\item Describe in words the steps you used to create your map (1)
+		
+		\item Briefly describe the patterns on the maps and evaluate the quality of pedestrian accessibility to libraries in Toronto. (1.5)
+		
+		\item Based on your map, recommend one area for where you think the City of Toronto should look for property to build a new library branch. (0.5)
+		
+	\end{enumerate}
 	
 	
 	
