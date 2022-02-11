@@ -80,13 +80,27 @@
 	
 	\section*{Transportation Data Analysis Assignment} 
 		
-	\textit{Due February 28 at 11:59pm}
+	\textit{Due March 3 at 11:59pm}
 	
-	Please submit your assignment as \textbf{one} pdf or Word doc on Quercus before the due date. Do not upload separate maps or images. Put your name and student number in the header of your assignment.
+	\vspace{3mm}
+	
+	This assignment consists of analyzing, mapping, and interpreting various datasets that are commonly used in transportation planning and geography. 
+	
+	Each part of this assignment focuses on a specific task or research question, and includes creating one or two maps as well as short answer questions.
+	
+	
+	
+	
+	
+	
+	\subsection*{General Guidelines}
+
 	
 	All the technical questions can be completed using Excel and/or standard GIS software (QGIS or ArcGIS). But you are free to use any other software/tools that you want for any part of this assignment (e.g. R, Python, etc.).
 	
 	\texttt{data.zip} contains all the data required to complete this assignment.
+	
+	Please submit your assignment as \textbf{one} pdf or Word doc on Quercus before the due date. Do not upload separate maps or images. Put your name and student number in the header of your assignment.
 	
 	All maps should be 6.5 inches wide (and thus fit nicely on an 8.5x11 page with 1 inch margins). Please present all maps in a projection that preserves local directions and shapes (e.g. Web Mercator, UTM Zone 17N, etc.). Rotate all maps of Toronto so that Steeles Ave is parallel to the top border of the map (about 17 degrees).
 	
@@ -111,6 +125,14 @@
 
 	The city has grown recently, use your student number to distribute where employment growth is located in the city. Do this by allocating 1,000 additional jobs to each neighbourhood for each digit in your student number.
 	
+	For example, if your student number is 2013455888, then the distribution of jobs in the city would be as follows:
+	
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.5\linewidth]{images/city_jobs.png}
+	\end{figure}
+	
+	
 	Answer the following questions based on your student number:
 	
 	\begin{enumerate}
@@ -124,12 +146,6 @@
 		
 	\end{enumerate}
 
-	(For example, if your student number is 2013455888, then the distribution of jobs in the city would be as follows)
-	
-	\begin{figure}[h]
-		\centering
-		\includegraphics[width=0.5\linewidth]{images/city_jobs.png}
-	\end{figure}
 	
 	
 	
@@ -143,7 +159,7 @@
 	
 	Your task is to map and analyze how and where cycling infrastructure is related to cycling mode share in Toronto. 
 
-	For the infrastructure part, I have prepared data on Bikeshare stations and cycling routes. Data on commuting to work from the 2016 census is in the \textit{census-data-2016} folder.
+	For the infrastructure part, I have prepared data on Bikeshare stations and cycling routes. Data on commuting to work from the 2016 census is in the \texttt{data.zip/census-data-2016} folder.
 
 	\begin{enumerate}
 			
@@ -171,7 +187,7 @@
 	
 	Your task is to map pedestrian accessibility to public libraries. 
 	
-	In the \texttt{data.zip} folder, there is a pedestrian network dataset pulled from OpenStreetMap. There is also a point file of the locations of public libraries.
+	In the \texttt{data.zip/part3} folder, there is a pedestrian network dataset pulled from OpenStreetMap. There is also a point file of the locations of public libraries.
 	
 	
 	\begin{enumerate}
@@ -189,40 +205,53 @@
 	
 	\subsection*{Part 4: Transit Accessibility To Employment}
 	
-	\textbf{\textit{6 marks)}}
+	\textbf{\textit{6 marks}}
 	
+	Now let's try to measure and map transit accessibility to employment in Toronto.
 	
-	Given OD matrix of DAs (describe creation)
+	To help you out, I've created an Origin-Destination matrix of travel times by transit between Census Tract centroids. This is stored in \texttt{tij.csv} where the rows are origins ($i$) and the columns are destinations ($j$).
 	
-	Measure access to jobs in 45 minutes
+	The travel times were based on an 8am departure time. The network data used to generate the travel times is a combined transit and walking network using \href{url}{R5R}. The transit part is based on pre-COVID transit schedules (from November of 2019) and OpenStreetMap is used for the walking part. The travel times thus include time walking to and from stops, waiting for a transit vehicle, and any transferring time (if applicable). 
 	
-	Create a choropleth map of transit accessibility to jobs overlaid with the line and point files of subway lines and stops. (3.5 marks)
-	
-	Briefly describe the pattern on the map (1 marks), as expected?
-	
-	Discuss limitations in this measure (1.5 marks)
+	The provided employment data is from the 2016 census. These values are the number of jobs located in a census tract for people who do not work from home (i.e. jobs that people commute to)
 	
 	
 	
-	
-	\subsection*{Part 5: Mapping Travel Choices}
-	
-	\textbf{\textit{7 marks}}
-	
-	1.5x3 + 2.5 = 7 marks
-	
-	1 map - Transit mode share
-	
-	1 map - Activity participation
-	
-	1 map - Commute times
-	
-	Qualitative response to the above  (2.5 marks)
-
+	\begin{enumerate}
+		\item Create a choropleth map showing the number of jobs that can be reached in less than or equal to a 45 minute transit trip from each census tract. Overlay the map with the locations of existing rapid transit lines and stations (3.5)
+		
+		\item Briefly describe the pattern on the map. How is transit accessibility to jobs distributed throughout the city? (1)
+		
+		\item Discuss three limitations about the source data and/or methodology used in creating this accessibility measure (1.5)
+		
+	\end{enumerate}
 	
 	
 	
 	
+	
+	
+	
+	\subsection*{Part 5: Accessibility \& Commuting}
+	
+	\textbf{\textit{8 marks}}
+	
+	Let's compare the transit accessibility map in Part 4 to a couple of travel behaviour outcomes based on the provided 2016 census journey to work data. The goal of this analysis will be to see whether, and if so how and where, transit accessibility is related to commuting outcomes.
+	
+	\begin{enumerate}
+		\item Create a choropleth map of census tracts showing transit mode share for journey to work trips. (1.5)
+		
+		\item Create a scatter plot of transit accessibility compared to transit mode share (1)
+		
+		\item Create a choropleth map of census tracts showing the percent of commuters who have a commute of 60 minutes or more one-way (these are often called "extreme" commuters) (1.5)
+		
+		\item Create a scatter plot of transit accessibility compared to the percent of commuters who have a commute of 60 minutes or more one-way (1)
+		
+		\item Based on your maps and plots, describe how and speculate why (or why not) transit accessibility is related these two travel behaviour outcomes. (3)
+		
+	\end{enumerate}
+		
+	\textit{(for the scatter plots, each point on the plots should be a census tract)}
 	
 	
 \end{document}
