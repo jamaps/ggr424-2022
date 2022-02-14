@@ -40,7 +40,7 @@ commentstyle=color{comments}emph}
 
 
 % title info
-\title{\textbf{Maps / GIS:}}
+\title{\textbf{Maps / Data / GIS}}
 \subtitle{\textbf{GGR424 - Transportation Geography \& Planning}}
 \author{Jeff Allen}
 \institute{University of Toronto}
@@ -55,6 +55,9 @@ commentstyle=color{comments}emph}
 
 
 
+
+
+
 \begin{frame}
 	
 	\textbf{Today}
@@ -65,9 +68,8 @@ commentstyle=color{comments}emph}
 		\item Travel behaviour data
 		\begin{enumerate}
 			\item Surveys
-			\item Sensors (e.g. GPS)
+			\item Observation/Sensor Data (e.g. GPS)
 		\end{enumerate}
-		\item Maps for navigation / wayfinding
 		\item Demoing a few things in GIS / chat about the next assignment
 		
 	\end{itemize}
@@ -78,23 +80,35 @@ commentstyle=color{comments}emph}
 
 
 
-
-
 \begin{frame}
 	
-	\textbf{Travel Behaviour Data} - 1. Surveys
+	\textbf{Travel Behaviour Data: 1. Travel Surveys}
 	
 	\vspace{2mm}
 	
 	Travel surveys typically ask for two types of information:
 	
 	\begin{itemize}
-		\item Individual / household information (e.g. age, income, job status, household size, home address, work address)
+		\item Individual / household information, e.g. 
+		\begin{itemize}
+			\item age
+			\item income
+			\item home address
+			\item car ownership
+			\item preferences
+			\item etc.
+		\end{itemize}
 		
-		\item A travel diary (a trip-by-trip record of how, where, and when you travelled - usually over the course of a weekday)
+		\item A travel diary, a trip-by-trip record of daily travel. For each trip, asking..
+		\begin{itemize}
+			\item where (origin and destination)
+			\item when (time of day
+			\item how (travel mode)
+			\item why (trip purpose, e.g. to go to work)
+		\end{itemize}
 	\end{itemize}
 
-	These two data tables can be 'joined' to answer a number of analytical questions
+	These two data tables can be 'joined' to answer a number of questions
 
 \end{frame}
 
@@ -102,16 +116,170 @@ commentstyle=color{comments}emph}
 
 
 
-% TTS
+\begin{frame}
+	
+		\begin{columns}
+		\begin{column}{0.5\textwidth}
+			\textbf{Transportation Tomorrow Survey}
+			\begin{itemize}
+				\item Largest travel survey in the GGH (Greater Golden Horseshoe)
+				\item 5\% sample, every 5 years
+				\item Used as a basis for travel demand modelling and forecasting future travel demand
+				\item Used for a variety of research
+				\item Funded by MTO, Metrolinx, TTC, etc.
+			\end{itemize}
+		
+		\tiny\url{http://dmg.utoronto.ca/transportation-tomorrow-survey/tts-introduction}
+			
+		\end{column}
+		
+		\begin{column}{0.5\textwidth}
+			
+			\begin{figure}
+				\centering
+				\includegraphics[width=1\linewidth]{images/tts_region.png}
+			\end{figure}
+			
+			
+		\end{column}
+		
+	\end{columns}
+	
+\end{frame}
 
 
-% SMTO
+
+\begin{frame}
+	
+	\textbf{TTS maps}
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=1\linewidth]{images/E_choro_nocar.png}
+	\end{figure}
+
+	\tiny Source, me! sorry for the ugly colours
+	
+\end{frame}
 
 
-% Longer Surveys GSS
+
+\begin{frame}
+	
+	\textbf{TTS maps}
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=1\linewidth]{images/E_choro_acts.png}
+	\end{figure}
+
+	\tiny \url{https://www.sciencedirect.com/science/article/abs/pii/S1361920919308788}
+	
+\end{frame}
 
 
-% More Specific Surveys (without diaries) (e.g. general tarvel - i.e. COVID)
+
+\begin{frame}
+	
+	\textbf{TTS maps}
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=1\linewidth]{images/vkt_map_7.png}
+	\end{figure}
+
+	\tiny\url{https://journals.sagepub.com/doi/10.1177/0361198120911053}
+	
+\end{frame}
+
+
+
+\begin{frame}
+	
+	\textbf{Statistics Canada Survey Data}
+	
+	\vspace{2mm}
+	
+	e.g. the long-form Census asks a few questions about commuting
+	
+	\begin{itemize}
+		\item Usual travel mode
+		\item Departure time
+		\item Travel time
+		\item Travel distance
+		\item Location of employment
+	\end{itemize}
+	
+\end{frame}
+
+
+\begin{frame}
+	
+	\textbf{Summary of 2016 Census}
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=1\linewidth]{images/tor_mode_2016.png}
+	\end{figure}
+	
+	\tiny\url{https://www12.statcan.gc.ca/census-recensement/2016/as-sa/fogs-spg/Facts-cd-eng.cfm?LANG=Eng\&GK=CD\&GC=3520\&TOPIC=12}
+	
+	
+\end{frame}
+
+
+
+\begin{frame}
+	
+	\textbf{Summary of 2016 Census}
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=1\linewidth]{images/tor_time_2016.png}
+	\end{figure}
+	
+	\tiny\url{https://www12.statcan.gc.ca/census-recensement/2016/as-sa/fogs-spg/Facts-cd-eng.cfm?LANG=Eng\&GK=CD\&GC=3520\&TOPIC=12}
+	
+	
+\end{frame}
+
+
+
+\begin{frame}
+	
+	\textbf{Summary of 2016 Census}
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=1\linewidth]{images/tor_emp_2016.png}
+	\end{figure}
+	
+	\tiny\url{https://www12.statcan.gc.ca/census-recensement/2016/as-sa/fogs-spg/Facts-cd-eng.cfm?LANG=Eng\&GK=CD\&GC=3520\&TOPIC=12}
+	
+	
+\end{frame}
+
+
+
+
+\begin{frame}
+	
+	Surveys that focus on specific types of questions or sub-populations:
+	\vspace{2mm}
+	
+	e.g. StudentMoveTO, a travel survey of University students in the GTHA
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.7\linewidth]{images/smto_maps.png}
+	\end{figure}
+	
+	\tiny\url{http://www.studentmoveto.ca/resources-2/2019-survey/}
+	
+\end{frame}
+
+
+
 
 
 
@@ -126,7 +294,7 @@ Two types of questions
 		\item Revealed preference
 		\begin{itemize}
 			\item What did you do
-			\item \textit{e.g. did you buy an electric vehicle?}
+			\item \textit{e.g. how did you travel to work today?}
 		\end{itemize}
 		
 		\item Stated preference
@@ -136,7 +304,6 @@ Two types of questions
 		\end{itemize}
 		
 	\end{itemize}
-	
 	
 \end{frame}
 
@@ -153,11 +320,127 @@ Two types of questions
 
 \begin{frame}
 	
+	\textbf{Travel behaviour data: 2. Observation/Sensor Data}
 	
+	\begin{itemize}
+		\item Instead of asking people, observing how people and vehicles move around a city
+		\item Varying levels of technological sophistication
+		
+		\begin{itemize}
+			\item e.g. counting the number of cars in the HOV lane
+		\end{itemize}
+		
+	\end{itemize}
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.7\linewidth]{images/404_bridge.png}
+	\end{figure}
+	 
+\end{frame}
+
+
+
+\begin{frame}
+	
+	Automatic traffic counters
+	\vspace{2mm}
+	
+	e.g. counting cyclists in Copenhagen:
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.7\linewidth]{images/bike_counter_copenhagen}
+	\end{figure}
+	
+	\tiny\url{https://en.wikipedia.org/wiki/Traffic_count}
 	
 \end{frame}
 
 
+
+
+\begin{frame}
+	
+	GPS Tracking of vehicles
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.7\linewidth]{images/transit_app}
+	\end{figure}
+	
+\end{frame}
+
+
+\begin{frame}
+	
+ 	Automatic Passenger Counters
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.7\linewidth]{images/rocketman}
+	\end{figure}
+	
+\end{frame}
+
+
+% others - e.g. of readings for this week
+
+
+
+\begin{frame}
+	
+	Smartphone GPS Tracking ("passive" data collection on mobility)
+	
+	\begin{itemize}
+		\item e.g. Waze, Google Maps Traffic, etc.
+	\end{itemize}
+	
+	
+	
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.8\linewidth]{images/waze.png}
+	\end{figure}
+	\tiny\url{https://www.waze.com/live-map}
+	
+\end{frame}
+
+
+
+\begin{frame}
+	
+	Smartphone GPS Tracking ("passive" data collection on mobility)
+	
+	\begin{itemize}
+		\item e.g. NY Times investigation into the smartphone tracking industry
+	\end{itemize}
+	
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.8\linewidth]{images/nytimes_gps_stockexchange.png}
+	\end{figure}
+	\tiny\url{https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html}
+	
+\end{frame}
+
+
+
+
+
+\begin{frame}
+	
+	\textbf{After reading week}
+	
+	\begin{itemize}
+		\item In-person class moved to SS2125
+		\item Transportation data analysis assignment due March 3
+		\item Project proposal due March 10
+	\end{itemize}
+	
+\end{frame}
 
 
 
