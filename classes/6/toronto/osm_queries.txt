@@ -1,0 +1,33 @@
+
+Drive network:
+
+[out:json][timeout:200];
+		rel(324211); map_to_area->.bnd;
+		(
+		  way[highway~"motorway|motorway_link|primary|primary_link|secondary|secondary_link|tertiary|tertiary_link|trunk|trunk_link|residential|unclassified|service"](area.bnd);
+		  		  
+		);
+		(._;>;);
+		out body qt;
+		
+		
+Walk network:	
+		
+[out:json][timeout:200];
+		rel(324211); map_to_area->.bnd;
+		(
+		  way[highway~"primary|primary_link|secondary|secondary_link|tertiary|tertiary_link|residential|unclassified|service|steps|footway|cycleway|path"](area.bnd);
+		  		  
+		);
+		(._;>;);
+		out body qt;
+		
+		
+walk network bbox
+
+[out:json][timeout:25];
+( way[highway~"primary|primary_link|secondary|secondary_link|tertiary|tertiary_link|residential|unclassified|service|steps|footway|cycleway|path"]({{bbox}});
+);
+out body;
+>;
+out skel qt;
