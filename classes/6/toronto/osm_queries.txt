@@ -1,5 +1,5 @@
 
-Drive network:
+Drive network Toronto:
 
 [out:json][timeout:200];
 		rel(324211); map_to_area->.bnd;
@@ -11,7 +11,7 @@ Drive network:
 		out body qt;
 		
 		
-Walk network:	
+Walk network Toronto:	
 		
 [out:json][timeout:200];
 		rel(324211); map_to_area->.bnd;
@@ -23,7 +23,7 @@ Walk network:
 		out body qt;
 		
 		
-walk network bbox
+Walk network with bounding box:
 
 [out:json][timeout:25];
 ( way[highway~"primary|primary_link|secondary|secondary_link|tertiary|tertiary_link|residential|unclassified|service|steps|footway|cycleway|path"]({{bbox}});
