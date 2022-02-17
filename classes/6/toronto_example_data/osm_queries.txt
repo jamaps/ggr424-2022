@@ -31,3 +31,18 @@ Walk network with bounding box:
 out body;
 >;
 out skel qt;
+
+
+melbourne
+
+
+
+[out:json][timeout:200];
+		rel(4246124); map_to_area->.bnd;
+		(
+		  way[highway~"primary|primary_link|secondary|secondary_link|tertiary|tertiary_link|residential|unclassified|service|steps|footway|cycleway|path"](area.bnd);
+		  		  
+		);
+		(._;>;);
+		out body qt;
+		
