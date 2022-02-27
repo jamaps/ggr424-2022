@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  27 FEB 2022 12:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  27 FEB 2022 12:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1140,11 +1140,11 @@ cials-[]are-[]trying-[]to-[]change-[]that .
 \tf@snm=\write8
 \openout8 = `GGR424_C8.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 623.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 623.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 632.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 632.
  (./GGR424_C8.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 623.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 623.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 632.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 632.
 Package rerunfilecheck Info: File `GGR424_C8.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
@@ -1161,7 +1161,7 @@ Here is how much of TeX's memory you used:
 ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on GGR424_C8.pdf (29 pages, 17265689 bytes).
+Output written on GGR424_C8.pdf (29 pages, 17266199 bytes).
 PDF statistics:
  313 PDF objects out of 1000 (max. 8388607)
  177 compressed objects within 2 object streams
