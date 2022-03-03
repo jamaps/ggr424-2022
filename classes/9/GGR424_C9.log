@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  3 MAR 2022 14:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  3 MAR 2022 15:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -954,12 +954,12 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 <images/tor_benzene.png, id=44, 578.16pt x 792.9625pt>
 File: images/tor_benzene.png Graphic file (type png)
 <use images/tor_benzene.png>
-Package pdftex.def Info: images/tor_benzene.png  used on input line 137.
+Package pdftex.def Info: images/tor_benzene.png  used on input line 140.
 (pdftex.def)             Requested size: 148.49818pt x 203.66077pt.
 <images/tor_pm10.png, id=45, 599.23875pt x 819.06pt>
 File: images/tor_pm10.png Graphic file (type png)
 <use images/tor_pm10.png>
-Package pdftex.def Info: images/tor_pm10.png  used on input line 137.
+Package pdftex.def Info: images/tor_pm10.png  used on input line 140.
 (pdftex.def)             Requested size: 148.49818pt x 202.9648pt.
  [5
 
@@ -967,7 +967,7 @@ Package pdftex.def Info: images/tor_pm10.png  used on input line 137.
 <images/walkability_health.jpeg, id=54, 125.268pt x 96.8418pt>
 File: images/walkability_health.jpeg Graphic file (type jpg)
 <use images/walkability_health.jpeg>
-Package pdftex.def Info: images/walkability_health.jpeg  used on input line 154
+Package pdftex.def Info: images/walkability_health.jpeg  used on input line 160
 .
 (pdftex.def)             Requested size: 222.7487pt x 172.20345pt.
  [6
@@ -976,11 +976,39 @@ Package pdftex.def Info: images/walkability_health.jpeg  used on input line 154
 <images/mode_to_school.png, id=61, 814.04124pt x 501.875pt>
 File: images/mode_to_school.png Graphic file (type png)
 <use images/mode_to_school.png>
-Package pdftex.def Info: images/mode_to_school.png  used on input line 169.
+Package pdftex.def Info: images/mode_to_school.png  used on input line 176.
 (pdftex.def)             Requested size: 334.1174pt x 205.99216pt.
  [7
 
  <./images/mode_to_school.png>]
+<images/mode_satisfaction.png, id=70, 219.06844pt x 129.48375pt>
+File: images/mode_satisfaction.png Graphic file (type png)
+<use images/mode_satisfaction.png>
+Package pdftex.def Info: images/mode_satisfaction.png  used on input line 194.
+(pdftex.def)             Requested size: 259.86972pt x 153.60349pt.
+ [8
+
+ <./images/mode_satisfaction.png>] [9
+
+]
+<images/injury_road_tor.png, id=83, 1002.74625pt x 705.63625pt>
+File: images/injury_road_tor.png Graphic file (type png)
+<use images/injury_road_tor.png>
+Package pdftex.def Info: images/injury_road_tor.png  used on input line 233.
+(pdftex.def)             Requested size: 259.86972pt x 182.8689pt.
+ [10
+
+ <./images/injury_road_tor.png>]
+<images/ttc-covid.png, id=92, 1168.365pt x 660.4675pt>
+File: images/ttc-covid.png Graphic file (type png)
+<use images/ttc-covid.png>
+Package pdftex.def Info: images/ttc-covid.png  used on input line 249.
+(pdftex.def)             Requested size: 348.97034pt x 197.265pt.
+ [11
+
+ <./images/ttc-covid.png>] [12
+
+]
 \tf@nav=\write6
 \openout6 = `GGR424_C9.nav'.
 
@@ -990,19 +1018,19 @@ Package pdftex.def Info: images/mode_to_school.png  used on input line 169.
 \tf@snm=\write8
 \openout8 = `GGR424_C9.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 188.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 188.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 270.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 270.
  (./GGR424_C9.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 188.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 188.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 270.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 270.
 Package rerunfilecheck Info: File `GGR424_C9.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19302 strings out of 483183
- 357119 string characters out of 5966291
+ 19340 strings out of 483183
+ 357770 string characters out of 5966291
  776354 words of memory out of 5000000
- 33825 multiletter control sequences out of 15000+600000
+ 33850 multiletter control sequences out of 15000+600000
  564967 words of font info for 76 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  54i,11n,57p,776b,512s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1011,10 +1039,10 @@ Here is how much of TeX's memory you used:
 ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on GGR424_C9.pdf (7 pages, 3914020 bytes).
+Output written on GGR424_C9.pdf (12 pages, 4379535 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 500000)
- 68 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 174 PDF objects out of 1000 (max. 8388607)
+ 89 compressed objects within 1 object stream
+ 25 named destinations out of 1000 (max. 500000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
