@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  7 MAR 2022 10:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  7 MAR 2022 11:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1039,7 +1039,7 @@ Package pdftex.def Info: images/foodbanks_access.png  used on input line 308.
 <images/race-pollution.png, id=134, 1572.87625pt x 876.27374pt>
 File: images/race-pollution.png Graphic file (type png)
 <use images/race-pollution.png>
-Package pdftex.def Info: images/race-pollution.png  used on input line 379.
+Package pdftex.def Info: images/race-pollution.png  used on input line 382.
 (pdftex.def)             Requested size: 371.24408pt x 206.82019pt.
  [17
 
@@ -1048,7 +1048,7 @@ Package pdftex.def Info: images/race-pollution.png  used on input line 379.
 File: images/race_pollution_canada.png Graphic file (type png)
 <use images/race_pollution_canada.png>
 Package pdftex.def Info: images/race_pollution_canada.png  used on input line 3
-92.
+95.
 (pdftex.def)             Requested size: 296.99638pt x 230.11403pt.
  [18
 
@@ -1058,136 +1058,144 @@ Package pdftex.def Info: images/race_pollution_canada.png  used on input line 3
 <images/income_mode_canada.png, id=159, 500.62032pt x 231.11343pt>
 File: images/income_mode_canada.png Graphic file (type png)
 <use images/income_mode_canada.png>
-Package pdftex.def Info: images/income_mode_canada.png  used on input line 433.
+Package pdftex.def Info: images/income_mode_canada.png  used on input line 437.
 
 (pdftex.def)             Requested size: 348.97034pt x 161.10826pt.
  [20
 
  <./images/income_mode_canada.png>]
-<images/access_income.png, id=167, 849.1725pt x 511.9125pt>
-File: images/access_income.png Graphic file (type png)
-<use images/access_income.png>
-Package pdftex.def Info: images/access_income.png  used on input line 455.
-(pdftex.def)             Requested size: 348.97034pt x 210.36977pt.
+<images/ttc_equity.png, id=167, 746.79pt x 867.24pt>
+File: images/ttc_equity.png Graphic file (type png)
+<use images/ttc_equity.png>
+Package pdftex.def Info: images/ttc_equity.png  used on input line 452.
+(pdftex.def)             Requested size: 185.62204pt x 215.55234pt.
  [21
 
- <./images/access_income.png>]
-<images/tpov_city_plot.png, id=176, 549.55313pt x 255.95625pt>
-File: images/tpov_city_plot.png Graphic file (type png)
-<use images/tpov_city_plot.png>
-Package pdftex.def Info: images/tpov_city_plot.png  used on input line 470.
-(pdftex.def)             Requested size: 274.72266pt x 127.95436pt.
+ <./images/ttc_equity.png>]
+<images/access_income.png, id=176, 849.1725pt x 511.9125pt>
+File: images/access_income.png Graphic file (type png)
+<use images/access_income.png>
+Package pdftex.def Info: images/access_income.png  used on input line 471.
+(pdftex.def)             Requested size: 348.97034pt x 210.36977pt.
  [22
 
+ <./images/access_income.png>]
+<images/tpov_city_plot.png, id=184, 549.55313pt x 255.95625pt>
+File: images/tpov_city_plot.png Graphic file (type png)
+<use images/tpov_city_plot.png>
+Package pdftex.def Info: images/tpov_city_plot.png  used on input line 486.
+(pdftex.def)             Requested size: 274.72266pt x 127.95436pt.
+ [23
+
  <./images/tpov_city_plot.png>]
-<images/income_transit_gtha.png, id=184, 1098.1025pt x 619.31375pt>
+<images/income_transit_gtha.png, id=192, 1098.1025pt x 619.31375pt>
 File: images/income_transit_gtha.png Graphic file (type png)
 <use images/income_transit_gtha.png>
-Package pdftex.def Info: images/income_transit_gtha.png  used on input line 484
+Package pdftex.def Info: images/income_transit_gtha.png  used on input line 500
 .
 (pdftex.def)             Requested size: 348.97034pt x 196.81421pt.
- [23
+ [24
 
  <./images/income_transit_gtha.png>]
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 508.
+(Font)              scaled to size 10.42007pt on input line 524.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 508.
+(Font)              scaled to size 7.91925pt on input line 524.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 508.
+(Font)              scaled to size 10.42007pt on input line 524.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 508.
- [24
+(Font)              scaled to size 7.91925pt on input line 524.
+ [25
 
 ]
-<images/chicago_spatial_mismatch.png, id=196, 520.94624pt x 708.6475pt>
+<images/chicago_spatial_mismatch.png, id=205, 520.94624pt x 708.6475pt>
 File: images/chicago_spatial_mismatch.png Graphic file (type png)
 <use images/chicago_spatial_mismatch.png>
 Package pdftex.def Info: images/chicago_spatial_mismatch.png  used on input lin
-e 520.
+e 536.
 (pdftex.def)             Requested size: 178.19557pt x 242.39673pt.
- [25
+ [26
 
  <./images/chicago_spatial_mismatch.png>]
-<images/baltimore_spatial_mismatch.png, id=204, 518.93875pt x 653.44125pt>
+<images/baltimore_spatial_mismatch.png, id=212, 518.93875pt x 653.44125pt>
 File: images/baltimore_spatial_mismatch.png Graphic file (type png)
 <use images/baltimore_spatial_mismatch.png>
 Package pdftex.def Info: images/baltimore_spatial_mismatch.png  used on input l
-ine 531.
+ine 547.
 (pdftex.def)             Requested size: 200.4693pt x 252.42815pt.
 
-Overfull \vbox (9.35335pt too high) detected at line 531
+Overfull \vbox (9.35335pt too high) detected at line 547
  []
 
-[26
+[27
 
  <./images/baltimore_spatial_mismatch.png>]
-<images/3cities_2012_1970.jpeg, id=211, 3864.4375pt x 2986.15625pt>
+<images/3cities_2012_1970.jpeg, id=219, 3864.4375pt x 2986.15625pt>
 File: images/3cities_2012_1970.jpeg Graphic file (type jpg)
 <use images/3cities_2012_1970.jpeg>
-Package pdftex.def Info: images/3cities_2012_1970.jpeg  used on input line 544.
+Package pdftex.def Info: images/3cities_2012_1970.jpeg  used on input line 560.
 
 (pdftex.def)             Requested size: 311.84366pt x 240.9478pt.
- [27
-
- <./images/3cities_2012_1970.jpeg>]
-<images/bikescore_income.png, id=217, 764.8575pt x 733.74126pt>
-File: images/bikescore_income.png Graphic file (type png)
-<use images/bikescore_income.png>
-Package pdftex.def Info: images/bikescore_income.png  used on input line 560.
-(pdftex.def)             Requested size: 222.7487pt x 213.68639pt.
  [28
 
- <./images/bikescore_income.png>]
-<images/crosstown.png, id=225, 1150.2975pt x 659.46375pt>
-File: images/crosstown.png Graphic file (type png)
-<use images/crosstown.png>
-Package pdftex.def Info: images/crosstown.png  used on input line 577.
-(pdftex.def)             Requested size: 274.72266pt x 157.49971pt.
+ <./images/3cities_2012_1970.jpeg>]
+<images/bikescore_income.png, id=225, 764.8575pt x 733.74126pt>
+File: images/bikescore_income.png Graphic file (type png)
+<use images/bikescore_income.png>
+Package pdftex.def Info: images/bikescore_income.png  used on input line 576.
+(pdftex.def)             Requested size: 222.7487pt x 213.68639pt.
  [29
 
+ <./images/bikescore_income.png>]
+<images/crosstown.png, id=233, 1150.2975pt x 659.46375pt>
+File: images/crosstown.png Graphic file (type png)
+<use images/crosstown.png>
+Package pdftex.def Info: images/crosstown.png  used on input line 593.
+(pdftex.def)             Requested size: 274.72266pt x 157.49971pt.
+ [30
+
  <./images/crosstown.png>]
-[30
+[31
 
 ]
-<images/tpov.png, id=237, 256.0767pt x 312.9291pt>
+<images/tpov.png, id=246, 256.0767pt x 312.9291pt>
 File: images/tpov.png Graphic file (type png)
 <use images/tpov.png>
-Package pdftex.def Info: images/tpov.png  used on input line 611.
+Package pdftex.def Info: images/tpov.png  used on input line 627.
 (pdftex.def)             Requested size: 163.3483pt x 199.61977pt.
- [31
+ [32
 
  <./images/tpov.png>]
-<images/income_activities_gtha.png, id=245, 980.66376pt x 654.445pt>
+<images/income_activities_gtha.png, id=253, 980.66376pt x 654.445pt>
 File: images/income_activities_gtha.png Graphic file (type png)
 <use images/income_activities_gtha.png>
 Package pdftex.def Info: images/income_activities_gtha.png  used on input line 
-625.
+641.
 (pdftex.def)             Requested size: 348.97034pt x 232.88382pt.
 
-Overfull \vbox (6.50787pt too high) detected at line 625
+Overfull \vbox (6.50787pt too high) detected at line 641
  []
 
-[32
+[33
 
  <./images/income_activities_gtha.png>]
-<images/accessibility_activities_gtha.png, id=252, 1306.8825pt x 491.8375pt>
+<images/accessibility_activities_gtha.png, id=260, 1306.8825pt x 491.8375pt>
 File: images/accessibility_activities_gtha.png Graphic file (type png)
 <use images/accessibility_activities_gtha.png>
 Package pdftex.def Info: images/accessibility_activities_gtha.png  used on inpu
-t line 639.
+t line 655.
 (pdftex.def)             Requested size: 348.97034pt x 131.32695pt.
- [33
-
- <./images/accessibility_activities_gtha.png>]
-<images/klein_smart_cars.png, id=259, 718.685pt x 577.15625pt>
-File: images/klein_smart_cars.png Graphic file (type png)
-<use images/klein_smart_cars.png>
-Package pdftex.def Info: images/klein_smart_cars.png  used on input line 656.
-(pdftex.def)             Requested size: 237.59598pt x 190.8056pt.
  [34
 
- <./images/klein_smart_cars.png>] [35
+ <./images/accessibility_activities_gtha.png>]
+<images/klein_smart_cars.png, id=267, 718.685pt x 577.15625pt>
+File: images/klein_smart_cars.png Graphic file (type png)
+<use images/klein_smart_cars.png>
+Package pdftex.def Info: images/klein_smart_cars.png  used on input line 672.
+(pdftex.def)             Requested size: 237.59598pt x 190.8056pt.
+ [35
+
+ <./images/klein_smart_cars.png>] [36
 
 ]
 \tf@nav=\write6
@@ -1199,19 +1207,19 @@ Package pdftex.def Info: images/klein_smart_cars.png  used on input line 656.
 \tf@snm=\write8
 \openout8 = `GGR424_C9.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 694.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 694.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 710.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 710.
  (./GGR424_C9.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 694.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 694.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 710.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 710.
 Package rerunfilecheck Info: File `GGR424_C9.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19593 strings out of 483183
- 363125 string characters out of 5966291
+ 19603 strings out of 483183
+ 363298 string characters out of 5966291
  776354 words of memory out of 5000000
- 34034 multiletter control sequences out of 15000+600000
+ 34041 multiletter control sequences out of 15000+600000
  577657 words of font info for 99 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  54i,11n,57p,776b,512s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1222,10 +1230,10 @@ xlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/urw/palatino/uplri8a.pfb>
-Output written on GGR424_C9.pdf (35 pages, 12231860 bytes).
+Output written on GGR424_C9.pdf (36 pages, 12753512 bytes).
 PDF statistics:
- 396 PDF objects out of 1000 (max. 8388607)
- 212 compressed objects within 3 object streams
- 71 named destinations out of 1000 (max. 500000)
- 173 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 409 PDF objects out of 1000 (max. 8388607)
+ 219 compressed objects within 3 object streams
+ 73 named destinations out of 1000 (max. 500000)
+ 178 words of extra memory for PDF output out of 10000 (max. 10000000)
 
