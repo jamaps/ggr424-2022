@@ -29,9 +29,9 @@ Start: Huron & Willox
 
 7. King's College
 
-8. College
+8. Taddle Creek Rd
 
-9. University
+9. University & College
 
 10. Queen's Park South
 
