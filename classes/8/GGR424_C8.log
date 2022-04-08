@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  27 FEB 2022 12:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  8 APR 2022 09:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -970,7 +970,7 @@ Package pdftex.def Info: images/google_maps_toronto.png  used on input line 204
 <images/paris_1913.png, id=77, 900.36375pt x 689.57625pt>
 File: images/paris_1913.png Graphic file (type png)
 <use images/paris_1913.png>
-Package pdftex.def Info: images/paris_1913.png  used on input line 243.
+Package pdftex.def Info: images/paris_1913.png  used on input line 241.
 (pdftex.def)             Requested size: 296.99638pt x 227.46616pt.
  [10
 
@@ -978,7 +978,7 @@ Package pdftex.def Info: images/paris_1913.png  used on input line 243.
 <images/rome-train-map.jpeg, id=85, 1124.2pt x 1101.11375pt>
 File: images/rome-train-map.jpeg Graphic file (type jpg)
 <use images/rome-train-map.jpeg>
-Package pdftex.def Info: images/rome-train-map.jpeg  used on input line 261.
+Package pdftex.def Info: images/rome-train-map.jpeg  used on input line 257.
 (pdftex.def)             Requested size: 222.7487pt x 218.16905pt.
  [11
 
@@ -986,7 +986,7 @@ Package pdftex.def Info: images/rome-train-map.jpeg  used on input line 261.
 <images/frankfurt.jpg, id=92, 1206.69pt x 853.37pt>
 File: images/frankfurt.jpg Graphic file (type jpg)
 <use images/frankfurt.jpg>
-Package pdftex.def Info: images/frankfurt.jpg  used on input line 277.
+Package pdftex.def Info: images/frankfurt.jpg  used on input line 271.
 (pdftex.def)             Requested size: 319.27013pt x 225.79039pt.
  [12
 
@@ -994,7 +994,7 @@ Package pdftex.def Info: images/frankfurt.jpg  used on input line 277.
 <images/hong_kong_bus.jpg, id=99, 1496.2299pt x 1329.5271pt>
 File: images/hong_kong_bus.jpg Graphic file (type jpg)
 <use images/hong_kong_bus.jpg>
-Package pdftex.def Info: images/hong_kong_bus.jpg  used on input line 292.
+Package pdftex.def Info: images/hong_kong_bus.jpg  used on input line 284.
 (pdftex.def)             Requested size: 252.44325pt x 224.31252pt.
  [13
 
@@ -1004,7 +1004,7 @@ Package pdftex.def Info: images/hong_kong_bus.jpg  used on input line 292.
 <images/richmond.png, id=112, 885.3075pt x 641.39626pt>
 File: images/richmond.png Graphic file (type png)
 <use images/richmond.png>
-Package pdftex.def Info: images/richmond.png  used on input line 340.
+Package pdftex.def Info: images/richmond.png  used on input line 330.
 (pdftex.def)             Requested size: 296.99638pt x 215.17491pt.
  [15
 
@@ -1012,7 +1012,7 @@ Package pdftex.def Info: images/richmond.png  used on input line 340.
 <images/brampton_map.png, id=121, 802.197pt x 489.027pt>
 File: images/brampton_map.png Graphic file (type png)
 <use images/brampton_map.png>
-Package pdftex.def Info: images/brampton_map.png  used on input line 354.
+Package pdftex.def Info: images/brampton_map.png  used on input line 342.
 (pdftex.def)             Requested size: 345.25427pt x 210.47151pt.
  [16
 
@@ -1020,7 +1020,7 @@ Package pdftex.def Info: images/brampton_map.png  used on input line 354.
 <images/bike_map_1.png, id=129, 1862.96pt x 962.59625pt>
 File: images/bike_map_1.png Graphic file (type png)
 <use images/bike_map_1.png>
-Package pdftex.def Info: images/bike_map_1.png  used on input line 374.
+Package pdftex.def Info: images/bike_map_1.png  used on input line 362.
 (pdftex.def)             Requested size: 371.24408pt x 191.8108pt.
  [17
 
@@ -1028,17 +1028,17 @@ Package pdftex.def Info: images/bike_map_1.png  used on input line 374.
 <images/bike_map_leg.png, id=137, 1225.57875pt x 891.33pt>
 File: images/bike_map_leg.png Graphic file (type png)
 <use images/bike_map_leg.png>
-Package pdftex.def Info: images/bike_map_leg.png  used on input line 391.
+Package pdftex.def Info: images/bike_map_leg.png  used on input line 379.
 (pdftex.def)             Requested size: 296.99638pt x 215.99086pt.
  [18
 
  <./images/bike_map_leg.png>]
 File: images/ttc_downtown.png Graphic file (type png)
 <use images/ttc_downtown.png>
-Package pdftex.def Info: images/ttc_downtown.png  used on input line 409.
+Package pdftex.def Info: images/ttc_downtown.png  used on input line 397.
 (pdftex.def)             Requested size: 311.84366pt x 199.749pt.
 
-Overfull \vbox (0.9966pt too high) detected at line 409
+Overfull \vbox (0.9966pt too high) detected at line 397
  []
 
 [19
@@ -1047,7 +1047,7 @@ Overfull \vbox (0.9966pt too high) detected at line 409
 <images/mind-the-map.png, id=152, 1386.17876pt x 706.64pt>
 File: images/mind-the-map.png Graphic file (type png)
 <use images/mind-the-map.png>
-Package pdftex.def Info: images/mind-the-map.png  used on input line 421.
+Package pdftex.def Info: images/mind-the-map.png  used on input line 409.
 (pdftex.def)             Requested size: 326.6966pt x 166.53485pt.
  [20
 
@@ -1060,7 +1060,7 @@ File: images/Transport-CO2-emissions-by-mode-bar-chart.png Graphic file (type p
 ng)
 <use images/Transport-CO2-emissions-by-mode-bar-chart.png>
 Package pdftex.def Info: images/Transport-CO2-emissions-by-mode-bar-chart.png  
-used on input line 460.
+used on input line 448.
 (pdftex.def)             Requested size: 363.81761pt x 143.4402pt.
  [22
 
@@ -1069,10 +1069,10 @@ used on input line 460.
 File: images/carbon-footprint-travel-mode.png Graphic file (type png)
 <use images/carbon-footprint-travel-mode.png>
 Package pdftex.def Info: images/carbon-footprint-travel-mode.png  used on input
- line 475.
+ line 463.
 (pdftex.def)             Requested size: 311.84366pt x 220.1089pt.
 
-Overfull \vbox (1.77031pt too high) detected at line 475
+Overfull \vbox (1.77031pt too high) detected at line 463
  []
 
 [23
@@ -1083,7 +1083,7 @@ Overfull \vbox (1.77031pt too high) detected at line 475
 <images/avoidshiftimprove.png, id=184, 1093.08376pt x 636.3775pt>
 File: images/avoidshiftimprove.png Graphic file (type png)
 <use images/avoidshiftimprove.png>
-Package pdftex.def Info: images/avoidshiftimprove.png  used on input line 525.
+Package pdftex.def Info: images/avoidshiftimprove.png  used on input line 513.
 (pdftex.def)             Requested size: 348.97034pt x 203.15944pt.
  [25
 
@@ -1091,7 +1091,7 @@ Package pdftex.def Info: images/avoidshiftimprove.png  used on input line 525.
 <images/big_links.png, id=193, 980.66376pt x 583.17876pt>
 File: images/big_links.png Graphic file (type png)
 <use images/big_links.png>
-Package pdftex.def Info: images/big_links.png  used on input line 536.
+Package pdftex.def Info: images/big_links.png  used on input line 524.
 (pdftex.def)             Requested size: 348.97034pt x 207.52377pt.
  [26
 
@@ -1099,17 +1099,17 @@ Package pdftex.def Info: images/big_links.png  used on input line 536.
 <images/milton-mode-share.png, id=200, 486.81876pt x 220.825pt>
 File: images/milton-mode-share.png Graphic file (type png)
 <use images/milton-mode-share.png>
-Package pdftex.def Info: images/milton-mode-share.png  used on input line 586.
+Package pdftex.def Info: images/milton-mode-share.png  used on input line 574.
 (pdftex.def)             Requested size: 189.33527pt x 85.88216pt.
 
-Overfull \hbox (3.71323pt too wide) in paragraph at lines 586--586
+Overfull \hbox (3.71323pt too wide) in paragraph at lines 574--574
  [] 
  []
 
 <images/milton.png, id=201, 933.4875pt x 785.93625pt>
 File: images/milton.png Graphic file (type png)
 <use images/milton.png>
-Package pdftex.def Info: images/milton.png  used on input line 586.
+Package pdftex.def Info: images/milton.png  used on input line 574.
 (pdftex.def)             Requested size: 118.79799pt x 100.01666pt.
 [27
 
@@ -1117,10 +1117,10 @@ Package pdftex.def Info: images/milton.png  used on input line 586.
 <images/delivery.png, id=209, 1142.2675pt x 656.4525pt>
 File: images/delivery.png Graphic file (type png)
 <use images/delivery.png>
-Package pdftex.def Info: images/delivery.png  used on input line 604.
+Package pdftex.def Info: images/delivery.png  used on input line 592.
 (pdftex.def)             Requested size: 322.98053pt x 185.60844pt.
 
-Overfull \hbox (89.0837pt too wide) in paragraph at lines 604--604
+Overfull \hbox (89.0837pt too wide) in paragraph at lines 592--592
 \T1/cmtt/m/n/6 everyone-[]is-[]getting-[]everything-[]delivered-[]these-[]days-
 []but-[]that-[]can-[]cause-[]chaos-[]on-[]city-[]streets-[]and-[]toronto-[]offi
 cials-[]are-[]trying-[]to-[]change-[]that . 
@@ -1140,11 +1140,11 @@ cials-[]are-[]trying-[]to-[]change-[]that .
 \tf@snm=\write8
 \openout8 = `GGR424_C8.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 632.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 632.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 620.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 620.
  (./GGR424_C8.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 632.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 632.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 620.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 620.
 Package rerunfilecheck Info: File `GGR424_C8.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
@@ -1161,7 +1161,7 @@ Here is how much of TeX's memory you used:
 ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on GGR424_C8.pdf (29 pages, 17266199 bytes).
+Output written on GGR424_C8.pdf (29 pages, 17265499 bytes).
 PDF statistics:
  313 PDF objects out of 1000 (max. 8388607)
  177 compressed objects within 2 object streams
